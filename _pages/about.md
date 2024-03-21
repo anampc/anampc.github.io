@@ -2,24 +2,26 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>Assistant Scientist</a> at University of Miami - CIMAS
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image: ana_pic.png
+  image_circular: true # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>NOAA/AOML</p>
+    <p>4301 Rickenbacker Cswy</p>
+    <p>Miami, Fl 33145</p>
 
 news: true # includes a list of news items
+latest_posts: true # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi, I'm Ana. I am a biologist interested in the future of our oceans. My main focus of research has been how ocean warming, acidification, diseases, and pollution affect corals and disrupt the coral-algal symbiosis, causing coral bleaching and mortality. I am also trying to identify (environmental and genetic) factors that promote more resistant corals that could survive in our fast changing world.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I use a combination of fieldwork and laboratory experiments to better understand corals' susceptibility and tolerance to these stressors. I collect small coral samples during my expeditions and experiments, which then I analyze with molecular techniques and bioinformatic tools.
+
+I am currently an Assistant Scientist at the Cooperative Institute for Marine and Atmospheric Studies [(CIMAS)](https://cimas.earth.miami.edu/) and NOAA's Atlantic Oceanographic and Meteorological Laboratory [(AOML)](https://www.aoml.noaa.gov/people/ana-maria-palacio/). I got a Ph.D. from the University of Miami with the [Coral Futures Lab](https://coralreeffutures.rsmas.miami.edu/people/ana-palacio/index.html), and a B.S. degree from Universidad de Antioquia (Colombia). I am also a member of the [Coral Reefs Ecology research group](https://arrecifes.correounivalle.edu.co/integrantes-del-grupo) at Universidad del Valle.
