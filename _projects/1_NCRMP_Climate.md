@@ -2,7 +2,7 @@
 layout: page
 title: NCRMP Climate 
 description: Overview of the most recent monitoring efforts
-img: assets/img/NCRMP.png
+img: assets/img/projects/NCRMP.png
 importance: 1
 category: field
 ---

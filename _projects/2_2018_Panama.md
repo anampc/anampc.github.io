@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 4
+title: 2018 Panama
 description: another without an image
 #img:
 importance: 2
