@@ -45,22 +45,26 @@
 - title: Grants and Awards
   type: time_table
   contents:
-    - year: 2023-2027
+    - title: Grant - Co-PI
+      year: 2023-2027
       institution: National Ocean Service (NOS), National Oceanic and Atmospheric Administration (NOAA) ($4,080,792)
       description:
-      - Characterizing and forecasting coastal ecosystem responses to multiple stressors for management applications in South Florida (Co-PI)
+      - Characterizing and forecasting coastal ecosystem responses to multiple stressors for management applications in South Florida
    
-    - year: 2023-2024
+    - title: Grant - PI
+      year: 2023-2024
       institution: Florida Department of Environmental Protection ($380,553)
       description:
-      - High-replication assessment of the effects of poor water quality on South Florida coral health and susceptibility to Stony Coral Tissue Loss Disease (PI)
+      - High-replication assessment of the effects of poor water quality on South Florida coral health and susceptibility to Stony Coral Tissue Loss Disease
         
-   - year: 2022-2023
-     institution: Florida Department of Environmental Protection ($145,350)
-     description:
-     - Assessing the effects of environmental co-factors on SCTLD transmission and progression rates (PI)
+    - title: Grant - PI
+      year: 2022-2023
+      institution: Florida Department of Environmental Protection ($145,350)
+      description:
+      - Assessing the effects of environmental co-factors on SCTLD transmission and progression rates
         
-   - year: 2019-2020
-     institution: US National Research Council ($115,000)
-     description:
+    - title: Award
+      year: 2019-2020
+      institution: US National Research Council ($115,000)
+      description:
      - Postdoctoral fellowship
