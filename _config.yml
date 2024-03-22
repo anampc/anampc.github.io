@@ -322,7 +322,7 @@ jekyll-archives:
     tag: "/blog/tag/:name/"
     category: "/blog/category/:name/"
 
-display_tags: ["ETP", "bleaching", "resources", "climate-change"] # these tags will be displayed on the front page of your blog
+display_tags: ["ETP", "resources", "climate-change"] # these tags will be displayed on the front page of your blog
 display_categories: ["research", "outreach", "open-science"] # these categories will be displayed on the front page of your blog
 
 
