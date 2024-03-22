@@ -5,7 +5,7 @@ description: Experimental notebook to test susceptibility of Pacific corals to S
 categories: research
 tags: Pocillopora, ETP, SCTLD
 giscus_comments: false
-date: 2024-01-10
+date: 2024-03-20
 featured: true
 
 authors:

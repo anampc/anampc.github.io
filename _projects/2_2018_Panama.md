@@ -1,16 +1,14 @@
 ---
 layout: page
 title: 2018 Panama
-description: another without an image
+description: Expedition to Panamanian reefs
 img: assets/img/projects/Panama2018/Chiriqui/9.jpg
 importance: 2
 category: field
 related_publications: true
 ---
 
-In 2018 we monitored the recovery of Panamanian reefs after the 2015-16 ENSO. 
-
-For related pubications describing ETP reefs and _Pocillopora_ responses to heat stress see {% cite palacio2023increased %}.
+In 2018 we monitored the recovery of Panamanian reefs after the 2015-16 ENSO. For related publications describing ETP reefs and _Pocillopora_ responses to heat stress see {% cite palacio2023increased %}.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
