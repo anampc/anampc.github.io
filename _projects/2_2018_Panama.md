@@ -8,7 +8,7 @@ category: field work
 related_publications: true
 ---
 
-In 2018 we monitored the recovery of Panamanian reefs after the 2015-16 ENSO. For related publications describing ETP reefs and _Pocillopora_ responses to heat stress see {% cite palacio2023increased %}.
+In 2018 we monitored the recovery of Panamanian reefs after the 2015-16 ENSO. For related publications describing ETP reefs and _Pocillopora_ responses to heat stress see {% cite palacio2023increased romero2020coral %}.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
