@@ -5,9 +5,7 @@
     "image": "",
     "email": "apalacio@earth.miami.edu",
     "url": "https://anampc.github.io",
-    "summary": "I am a biologist interested in the future of our oceans. My main focus of research has been how ocean warming, acidification, diseases, and pollution 
-    affect corals and disrupt the coral-algal symbiosis, causing coral bleaching and mortality. 
-    I am also trying to identify (environmental and genetic) factors that promote more resistant corals that could survive in our fast changing world",
+    "summary": "I am a biologist interested in the future of our oceans. My main focus of research has been how ocean warming, acidification, diseases, and pollution affect corals and disrupt the coral-algal symbiosis, causing coral bleaching and mortality. I also identify environmental and genetic factors that promote more resistant corals that could survive in our fast changing world",
     "location": {
       "address": "4301 Rickenbacker Cswy",
       "postalCode": "Fl 33145",
@@ -54,15 +52,13 @@
   
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "University of Miami",
+      "location": "Miami, USA",
+      "url": "https://www.earth.miami.edu/",
+      "area": "Marine Biology and Ecology",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "startDate": "2013",
+      "endDate": "2018"
     }
   ],
   "awards": [
