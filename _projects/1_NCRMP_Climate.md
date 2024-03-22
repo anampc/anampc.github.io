@@ -4,7 +4,7 @@ title: NCRMP Climate
 description: Overview of the most recent monitoring efforts
 img: assets/img/projects/NCRMP.png
 importance: 1
-category: field
+category: field work
 ---
 
 The AOML Coral Program tracks the status and trends of coral reef ecosystems of the U.S. Atlantic and Caribbean as part of the National Coral Reef Monitoring Program (NCRMP). These **field summaries** provide an overview of the most recent NCRMP climate monitoring efforts

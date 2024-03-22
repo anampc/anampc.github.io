@@ -4,7 +4,7 @@ title: 2018 Panama
 description: Expedition to Panamanian reefs
 img: assets/img/projects/Panama2018/Chiriqui/9.jpg
 importance: 2
-category: field
+category: field work
 related_publications: true
 ---
 

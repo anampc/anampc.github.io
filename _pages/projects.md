@@ -5,7 +5,7 @@ permalink: /projects/
 description:
 nav: true
 nav_order: 2
-display_categories: [lab, field]
+display_categories: [field work, wet lab]
 horizontal: false
 ---
 
