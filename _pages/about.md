@@ -11,16 +11,15 @@ profile:
   more_info: >
     <p>NOAA/AOML</p>
     <p>4301 Rickenbacker Cswy</p>
-    <p>Miami, Fl 33145</p>
+    <p>Miami, Fl 33149</p>
 
 news: true # includes a list of news items
 latest_posts: true # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 ---
 
 Hi, I'm Ana. I am a biologist interested in the future of our oceans. My main focus of research has been how ocean warming, acidification, diseases, and pollution affect corals and disrupt the coral-algal symbiosis, causing coral bleaching and mortality. I am also trying to identify (environmental and genetic) factors that promote more resistant corals that could survive in our fast changing world.
-
 
 I use a combination of fieldwork and laboratory experiments to better understand corals' susceptibility and tolerance to these stressors. I collect small coral samples during my expeditions and experiments, which then I analyze with molecular techniques and bioinformatic tools.
 
