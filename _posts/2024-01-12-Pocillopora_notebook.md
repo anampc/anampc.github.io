@@ -22,10 +22,10 @@ authors:
 #   - we may want to automate TOC generation in the future using
 #     jekyll-toc plugin (https://github.com/toshimaru/jekyll-toc).
 # toc:
-#  - name: Coral collection
-#    # subsections:
-#       - name: Permits
-#       - name: Travel
+  - name: Coral collection
+    # subsections:
+       - name: Permits
+       - name: Travel
 ## - name: Citations
 
 
@@ -50,20 +50,22 @@ _styles: >
 
 ## Coral collection
 
+Colonies were collected by Juan Mate and collaborators and brought to the STRI in [NAOS](https://stri.si.edu/facility/naos)
+
 * Porites lobata: 6 colonies collected on February 26, 2024 
 * Pocillopora: 10 colonies collected on March 1, 2024 
 * Pavona clavus: 7 colonies collected on March 7, 2024
 
-
+/Users/pachacuti/Documents/GitHub/anampc.github.io/assets/img/notebooks/Panama_SCTLD
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/notebooks/Panama_SCTLD/Plob_1.jpeg" title="Plob" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/notebooks/Panama_SCTLD/Plob_1.jpeg" title="Plob" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/notebooks/Panama_SCTLD/Plob_2.jpeg" title="Plob" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/notebooks/Panama_SCTLD/Plob_2.jpeg" title="Plob" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/notebooks/Panama_SCTLD/Plob_3.jpeg" title="Plob" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/notebooks/Panama_SCTLD/Plob_3.jpeg" title="Plob" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -71,25 +73,26 @@ Pdam not looking so good on March 21. New colonies will be collected on March  2
 
 ## Permits
 
-* Export: CITES permits requested by Juan Mate
-* Import:
+### Export: CITES permits requested by Juan Mate
 
-Make sure the CITES export permit from Panama is validated before the shipment leaves the country.
+### Import:
 
-Contacted fwsole_miami@fws.gov to make them aware of the samples coming. Instructions:  
+* Make sure the CITES export permit from Panama is validated before the shipment leaves the country.
+
+* Contacted fwsole_miami@fws.gov to make them aware of the samples coming. Instructions:  
 	
--	File a 3-177 Declaration (https://edecs.fws.gov/) prior to the import
--	As part of the declaration, upload documents (you will have to combine them in one PDF) including:
-	1. scans of the CITES permits
-	2. specimen list (including scientific names, quantities, and description (live)
-	3. scan of the air waybill or plane ticket (is this shipment being hand carried?)
-	4. a short description of the research
+	-	File a 3-177 Declaration (https://edecs.fws.gov/) prior to the import
+	-	As part of the declaration, upload documents (you will have to combine them in one PDF) including:
+		1. scans of the CITES permits
+		2. specimen list (including scientific names, quantities, and description (live)
+		3. scan of the air waybill or plane ticket (is this shipment being hand carried?)
+		4. a short description of the research
 
--	If landing on a weekday (M-F 8:00am to 4:00pm) Customs may call us to ask if we are aware of the shipment as the person is carrying the specimens through. 
-If the shipment is outside of normal working hours, we may have to contact Customs to let them know to expect the shipment and the shipment will be assigned to the overtime inspector. 
--	The original permits will need to be submitted to our office and then the declaration will be cleared in the computer. 
-You may either bring them into the office or send them through a reliable service such as FedEx with a tracking number.
--	The management authority or Customs will sign off on the bottom portion of the permit and validate the number of animals being exported. 
+	-	If landing on a weekday (M-F 8:00am to 4:00pm) Customs may call us to ask if we are aware of the shipment as the person is carrying the specimens through. 
+	- 	If the shipment is outside of normal working hours, we may have to contact Customs to let them know to expect the shipment and the shipment will be assigned to the overtime inspector. 
+	-	The original permits will need to be submitted to our office and then the declaration will be cleared in the computer. 
+		You may either bring them into the office or send them through a reliable service such as FedEx with a tracking number.
+	-	The management authority or Customs will sign off on the bottom portion of the permit and validate the number of animals being exported. 
 
 At least 48 hours in advance, please email us again to remind us of the shipment as we require a 48-Hour Notice of any live or perishable imports. 
 
@@ -98,6 +101,19 @@ At least 48 hours in advance, please email us again to remind us of the shipment
 
 * Arriving in Panama City on March 26th 
 * Packing colonies in two coolers with paper towels, bubble wrap and some water. 
+* Packing list -  Panama 
+
+- ~~Passport~~
+- ~~NOAA/UM IDs~~
+- ~~Coolers~~
+- ~~Ziplock bags~~ 
+- ~~Bubble wrap~~
+- ~~Paper towels~~
+- ~~Copy of permits~~ 
+- ~~Zip ties~~
+- ~~Duct tape~~ 
+- ~~Flights~~
+- Hotel reservation
 
 ---
 
@@ -117,14 +133,14 @@ However, we consider it good style to mention author last names if you discuss s
 
 -->
 
-## Footnotes
+!## Footnotes
 
-Just wrap the text you would like to show up in a footnote in a `<d-footnote>` tag.
+Wrap the text you would like to show up in a footnote in a `<d-footnote>` tag.
 The number of the footnote will be automatically generated.<d-footnote>This will become a hoverable footnote.</d-footnote>
 
 ---
 
-## Code Blocks
+!## Code Blocks
 
 Syntax highlighting is provided within `<d-code>` tags.
 An example of inline code snippets: `<d-code language="html">let x = 10;</d-code>`.
@@ -149,9 +165,9 @@ return x \* x;
 
 ---
 
-## Interactive Plots
+!## Interactive Plots
 
-You can add interative plots using plotly + iframes :framed_picture:
+Add interative plots using plotly + iframes :framed_picture:
 
 <div class="l-page">
   <iframe src="{{ '/assets/plotly/demo.html' | relative_url }}" frameborder='0' scrolling='no' height="500px" width="100%" style="border: 1px dashed grey;"></iframe>
@@ -182,7 +198,7 @@ fig.write_html('assets/plotly/demo.html')
 
 ---
 
-## Details boxes
+!## Details boxes
 
 Details boxes are collapsible boxes which hide additional information from the user. They can be added with the `details` liquid tag:
 
@@ -192,7 +208,7 @@ Additional details, where math $$ 2x - 1 $$ and `code` is rendered correctly.
 
 ---
 
-## Layouts
+!## Layouts
 
 The main text column is referred to as the body.
 It is the assumed layout of any direct descendants of the `d-article` element.
@@ -238,38 +254,8 @@ It does not interrupt the normal flow of `.l-body` sized text except on mobile s
 
 ---
 
-## Other Typography?
+!## Other Typography?
 
-Emphasis, aka italics, with _asterisks_ (`*asterisks*`) or _underscores_ (`_underscores_`).
-
-Strong emphasis, aka bold, with **asterisks** or **underscores**.
-
-Combined emphasis with **asterisks and _underscores_**.
-
-Strikethrough uses two tildes. ~~Scratch this.~~
-
-1. First ordered list item
-2. Another item
-   ⋅⋅\* Unordered sub-list.
-3. Actual numbers don't matter, just that it's a number
-   ⋅⋅1. Ordered sub-list
-4. And another item.
-
-⋅⋅⋅You can have properly indented paragraphs within list items. Notice the blank line above, and the leading spaces (at least one, but we'll use three here to also align the raw Markdown).
-
-⋅⋅⋅To have a line break without a paragraph, you will need to use two trailing spaces.⋅⋅
-⋅⋅⋅Note that this line is separate, but within the same paragraph.⋅⋅
-⋅⋅⋅(This is contrary to the typical GFM line break behaviour, where trailing spaces are not required.)
-
-- Unordered list can use asterisks
-
-* Or minuses
-
-- Or pluses
-
-[I'm an inline-style link](https://www.google.com)
-
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
 
 [I'm a reference-style link][Arbitrary case-insensitive reference text]
 

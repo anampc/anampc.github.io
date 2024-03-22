@@ -1,49 +1,57 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Ana M. Palacio Castro",
+    "label": "Assistant Scientist",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "apalacio@earth.miami.edu",
+    "url": "https://anampc.github.io",
+    "summary": "I am a biologist interested in the future of our oceans. My main focus of research has been how ocean warming, acidification, diseases, and pollution 
+    affect corals and disrupt the coral-algal symbiosis, causing coral bleaching and mortality. 
+    I am also trying to identify (environmental and genetic) factors that promote more resistant corals that could survive in our fast changing world",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "4301 Rickenbacker Cswy",
+      "postalCode": "Fl 33145",
+      "city": "Miami",
+      "countryCode": "US"
     },
     "profiles": [
       {
         "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "username": "AnaPalacio_C",
+        "url": "https://twitter.com/AnaPalacio_C"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
+      "name": "University of Miami-CIMAS, NOAA-AOML",
+      "position": "Assistant Scientist",
+      "url": "https://cimas.earth.miami.edu/",
+      "startDate": "2023-06-05",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [""]
+    },
     {
-      "organization": "People's Climate March",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
+      "name": "University of Miami-CIMAS, NOAA-AOML",
+      "position": "Postdoctoral Researcher",
+      "url": "https://cimas.earth.miami.edu/",
+      "startDate": "2023-06-05",
+      "endDate": "2023-06-05",
+      "summary": "",
+      "highlights": [""]
+    },
+    {
+      "name": "National Research Council",
+      "position": "Postdoctoral Fellow",
+      "url": "https://www.nationalacademies.org",
+      "startDate": "2023-06-05",
+      "endDate": "2023-06-05",
+      "summary": "",
+      "highlights": [""]
+    },
   ],
+  
   "education": [
     {
       "institution": "University of Zurich, Zurich, Switzerland",
