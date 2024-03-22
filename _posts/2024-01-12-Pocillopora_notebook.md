@@ -24,7 +24,6 @@ Colonies were collected by Juan Mate and collaborators and brought to the STRI i
 * Pocillopora: 10 colonies collected on March 1, 2024 
 * Pavona clavus: 7 colonies collected on March 7, 2024
 
-/Users/pachacuti/Documents/GitHub/anampc.github.io/assets/img/notebooks/Panama_SCTLD
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/notebooks/Panama_SCTLD/Plob_1.jpeg" title="Plob" class="img-fluid rounded z-depth-1" %}
@@ -43,7 +42,9 @@ Pdam not looking so good on March 21. New colonies will be collected on March  2
 
 ## Permits
 
-### Export: CITES permits requested by Juan Mate
+### Export: 
+
+* CITES permits requested by Juan Mate
 
 ### Import:
 
@@ -51,7 +52,7 @@ Pdam not looking so good on March 21. New colonies will be collected on March  2
 
 * Contacted fwsole_miami@fws.gov to make them aware of the samples coming. Instructions:  
 	
-	-	File a 3-177 Declaration (https://edecs.fws.gov/) prior to the import
+	-	File a [3-177 Declaration](https://edecs.fws.gov/) prior to the import
 	-	As part of the declaration, upload documents (you will have to combine them in one PDF) including:
 		1. scans of the CITES permits
 		2. specimen list (including scientific names, quantities, and description (live)
@@ -64,7 +65,7 @@ Pdam not looking so good on March 21. New colonies will be collected on March  2
 		You may either bring them into the office or send them through a reliable service such as FedEx with a tracking number.
 	-	The management authority or Customs will sign off on the bottom portion of the permit and validate the number of animals being exported. 
 
-At least 48 hours in advance, please email us again to remind us of the shipment as we require a 48-Hour Notice of any live or perishable imports. 
+* At least 48 hours in advance, please email us again to remind us of the shipment as we require a 48-Hour Notice of any live or perishable imports. 
 
 ---
 
@@ -73,15 +74,14 @@ At least 48 hours in advance, please email us again to remind us of the shipment
 * Arriving in Panama City on March 26th 
 * Packing colonies in two coolers with paper towels, bubble wrap and some water. 
 * Packing list -  Panama 
-
-- ~~Passport~~
-- ~~NOAA/UM IDs~~
-- ~~Coolers~~
-- ~~Ziplock bags~~ 
-- ~~Bubble wrap~~
-- ~~Paper towels~~
-- ~~Copy of permits~~ 
-- ~~Zip ties~~
-- ~~Duct tape~~ 
-- ~~Flights~~
-- Hotel reservation
+	- ~~Passport~~
+	- ~~NOAA/UM IDs~~
+	- ~~Coolers~~
+	- ~~Ziplock bags~~ 
+	- ~~Bubble wrap~~
+	- ~~Paper towels~~
+	- ~~Copy of permits~~ 
+	- ~~Zip ties~~
+	- ~~Duct tape~~ 
+	- ~~Flights~~
+	- Hotel reservation
