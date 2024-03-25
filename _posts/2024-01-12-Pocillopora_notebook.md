@@ -13,6 +13,11 @@ authors:
     url: "anampc.github.io"
     affiliations:
       name: CIMAS, UM, AOML
+
+toc:
+  - name: Coral collection
+  - name: Permits
+  - name: Travel
   
 ---
 
@@ -84,4 +89,4 @@ Pdam not looking so good on March 21. New colonies will be collected on March  2
 	- ~~Zip ties~~
 	- ~~Duct tape~~ 
 	- ~~Flights~~
-	- Hotel reservation
+	- ~~Hotel reservation~~
