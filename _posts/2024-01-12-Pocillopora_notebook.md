@@ -16,8 +16,7 @@ authors:
 
 toc:
   - name: Coral collection
-  - name: Permits
-  - name: Travel
+  - name: Recovery
   
 ---
 
@@ -26,8 +25,6 @@ toc:
 Colonies were collected by Juan Mate and collaborators and brought to the STRI in [NAOS](https://stri.si.edu/facility/naos)
 
 * Porites lobata: 6 colonies collected on February 26, 2024 
-* Pocillopora: 10 colonies collected on March 1, 2024 
-* Pavona clavus: 7 colonies collected on March 7, 2024
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -41,17 +38,20 @@ Colonies were collected by Juan Mate and collaborators and brought to the STRI i
     </div>
 </div>
 
-Pdam not looking so good on March 21. New colonies will be collected on March  25th. 
+* Pocillopora: 10 colonies collected on March 1, 2024 
+* Pavona clavus: 7 colonies collected on March 7, 2024
+
+Pocillopora not looking so good on March 21. New colonies will be collected on March 25th. 
 
 ---
 
-## Permits
+### Permits
 
-### Export: 
+**Export:** 
 
 * CITES permits requested by Juan Mate
 
-### Import:
+**Import:**
 
 * Make sure the CITES export permit from Panama is validated before the shipment leaves the country.
 
@@ -74,7 +74,7 @@ Pdam not looking so good on March 21. New colonies will be collected on March  2
 
 ---
 
-## Travel
+### Travel
 
 * Arriving in Panama City on March 26th 
 * Packing colonies in two coolers with paper towels, bubble wrap and some water. 
@@ -91,7 +91,6 @@ Pdam not looking so good on March 21. New colonies will be collected on March  2
 	- ~~Flights~~
 	- ~~Hotel reservation~~
 	
-
 * Arrived at STRI at 8:20. Prepared packing materials, printed labels and attached them to coolers.
 
 * Started packing colonies at 10:30 - finished at 11:30
@@ -100,20 +99,19 @@ Pdam not looking so good on March 21. New colonies will be collected on March  2
 
 * Landed at 7PM, but took a while to get though customs and get the corals to ERL. 
 
-* All corals in the water around 9PM
+* All corals in the water around 9PM. Tanks were set to 25C
 
 * Pictures:
 
  - [Colonies in the STRI tanks](https://drive.google.com/drive/folders/16R6f3B3SupYRIMkXT8CurTjmPJU4ljF7?usp=drive_link)
 
  - [Colonies packed](https://drive.google.com/drive/folders/1jdFR1ldENJhE-a9n7sAiurg5AcKmCKZV?usp=drive_link)
- 
-## Recovery
+
+
+## Recovery 
 
 * Pictures:
 
 - [Colonies at ERL](https://drive.google.com/drive/folders/1DVAJjtU3-ffxm8QJQ5SMDnr3m29isX7y?usp=drive_link)
 
 * 2024-04-01: Colony P.cla 855 was fragged since it continued to lose tissue on the margins of the cold spot. Fragments moved to quarantine in the glass tanks 
-
-
