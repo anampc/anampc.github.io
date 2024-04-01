@@ -91,21 +91,26 @@ Pdam not looking so good on March 21. New colonies will be collected on March  2
 	- ~~Flights~~
 	- ~~Hotel reservation~~
 	
-## Collection notes
 
 * Arrived at STRI at 8:20. Prepared packing materials, printed labels and attached them to coolers.
-* Started packing colonies at 10:30 - finished at 11:30
-* CITES permits signed in Terminal 1 of the airport at the arrivals floor. 
-* Landed at 7PM, but took a while to get though customs and get the corals to ERL. 
-* All corals in the water around 9PM
 
-## Recovery notes
+* Started packing colonies at 10:30 - finished at 11:30
+
+* CITES permits signed in Terminal 1 of the airport at the arrivals floor. 
+
+* Landed at 7PM, but took a while to get though customs and get the corals to ERL. 
+
+* All corals in the water around 9PM
 
 * Pictures:
 
  - [Colonies in the STRI tanks](https://drive.google.com/drive/folders/16R6f3B3SupYRIMkXT8CurTjmPJU4ljF7?usp=drive_link)
 
  - [Colonies packed](https://drive.google.com/drive/folders/1jdFR1ldENJhE-a9n7sAiurg5AcKmCKZV?usp=drive_link)
+ 
+## Recovery
+
+* Pictures:
 
 - [Colonies at ERL](https://drive.google.com/drive/folders/1DVAJjtU3-ffxm8QJQ5SMDnr3m29isX7y?usp=drive_link)
 
