@@ -76,7 +76,7 @@ Pocillopora not looking so good on March 21. New colonies will be collected on M
 
 ### Travel
 
-* Arriving in Panama City on March 26th 
+* Arriving in Panama City on March 26th (Ana and Taylor)
 * Packing colonies in two coolers with paper towels, bubble wrap and some water. 
 * Packing list -  Panama 
 	- ~~Passport~~
@@ -114,4 +114,6 @@ Pocillopora not looking so good on March 21. New colonies will be collected on M
 
 - [Colonies at ERL](https://drive.google.com/drive/folders/1DVAJjtU3-ffxm8QJQ5SMDnr3m29isX7y?usp=drive_link)
 
-* 2024-04-01: Colony P.cla 855 was fragged since it continued to lose tissue on the margins of the cold spot. Fragments moved to quarantine in the glass tanks 
+* 2024-04-01: Colony P.cla 855 was fragged since it continued to lose tissue on the margins of the cold spot. Fragments moved to quarantine in the glass tanks (Ben and Anthony)
+
+* 2024-04-02: Colonies P.cla 850 and 893 were moved to a glass tank each and light was reduced from 175 PAR to 125 (Anthony). 
