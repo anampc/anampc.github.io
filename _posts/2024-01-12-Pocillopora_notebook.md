@@ -139,7 +139,13 @@ Pocillopora not looking so good on March 21. New colonies will be collected on M
 
 ---
 
-* 2024-04-01: Colony P.cla 855 was fragged since it continued to lose tissue on the margins of the cold spot. Fragments moved to quarantine in the glass tanks (Ben and Anthony)
+* 2024-03-29: A section of colony P.Cla 850, about 1” in diameter has started to slough, likely due to cold exposure in transit. The colony was moved to a separate vessel and bathed to remove dead tissue before being returned to the raceway (AB)
+
+---
+
+* 2024-04-01
+    - Colony P.cla 855 was fragged since it continued to lose tissue on the margins of the cold spot. Fragments moved to quarantine in the glass tanks (Ben and Anthony)
+    - Colony Pocillopora 899 has TL in three branches. Those branches were removed (AB)
 
 ---
 
