@@ -16,7 +16,7 @@ authors:
 
 toc:
   - name: Coral collection
-  - name: Recovery
+  - name: Recovery and Fragging
   
 ---
 
@@ -40,6 +40,18 @@ Colonies were collected by Juan Mate and collaborators and brought to the STRI i
 
 * Pocillopora: 10 colonies collected on March 1, 2024 
 * Pavona clavus: 7 colonies collected on March 7, 2024
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/notebooks/Panama_SCTLD/Plob_1.jpeg" title="Plob" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/notebooks/Panama_SCTLD/Plob_2.jpeg" title="Plob" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/notebooks/Panama_SCTLD/Plob_3.jpeg" title="Plob" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
 Pocillopora not looking so good on March 21. New colonies will be collected on March 25th. 
 
@@ -95,6 +107,15 @@ Pocillopora not looking so good on March 21. New colonies will be collected on M
 
 * Started packing colonies at 10:30 - finished at 11:30
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/notebooks/Panama_SCTLD/Collected_colonies_1.png" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/notebooks/Panama_SCTLD/Collected_colonies_2" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
 * CITES permits signed in Terminal 1 of the airport at the arrivals floor. 
 
 * Landed at 7PM, but took a while to get though customs and get the corals to ERL. 
@@ -108,12 +129,33 @@ Pocillopora not looking so good on March 21. New colonies will be collected on M
  - [Colonies packed](https://drive.google.com/drive/folders/1jdFR1ldENJhE-a9n7sAiurg5AcKmCKZV?usp=drive_link)
 
 
-## Recovery 
+## Recovery and Fragging 
 
-* Pictures:
+* Pictures: [Colonies at ERL](https://drive.google.com/drive/folders/1DVAJjtU3-ffxm8QJQ5SMDnr3m29isX7y?usp=drive_link)
 
-- [Colonies at ERL](https://drive.google.com/drive/folders/1DVAJjtU3-ffxm8QJQ5SMDnr3m29isX7y?usp=drive_link)
+---
+
+* 2024-03-28: Colony P.cla 855 and 893 with dead spots (cold patches in transport)
+
+---
 
 * 2024-04-01: Colony P.cla 855 was fragged since it continued to lose tissue on the margins of the cold spot. Fragments moved to quarantine in the glass tanks (Ben and Anthony)
 
-* 2024-04-02: Colonies P.cla 850 and 893 were moved to a glass tank each and light was reduced from 175 PAR to 125 (Anthony). 
+---
+
+* 2024-04-02: Colonies P.cla 850 and 893 were moved to a glass tank each and light was reduced from 175 PAR to 125 (Anthony). One of the fragments of P.Cla 855 has lost color and declined in health.
+
+---
+
+* 2024-04-04
+    - Colonies P.cla 850 and 893 moved into the same glass tank.
+    - Colony Pocillopora 899 has started to slough tissue from deep within the colony. The colony was fragmented and the diseased skeleton was removed.
+    - Colony Pocillopora 853 has started to lose tissue on four branches and has developed a brown mucus layer around the dead tissue - a dead crab was inside the colony. The colony was fragmented to remove the diseased skeleton (AB)
+
+---
+
+* 2024-04-06 and 07: ~6 fragments from Pocillopora XXX died over the weekend. Removed from tanks (AP). 
+
+---
+
+* 2024-04-09: P.cla colonies fragged in big pieces with the tile saw (BC and AB)
