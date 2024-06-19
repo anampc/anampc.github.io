@@ -61,11 +61,28 @@
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Co-PI: Characterizing and forecasting coastal ecosystem responses to multiple stressors for management applications in South Florida",
+      "date": "2023",
+      "awarder": "National Ocean Service (NOS), National Oceanic and Atmospheric Administration (NOAA)",
+      "summary": "($4,080,792)"
+    },
+    {
+      "title": "PI: High-replication assessment of the effects of poor water quality on South Florida coral health and susceptibility to Stony Coral Tissue Loss Disease",
+      "date": "2023",
+      "awarder": "Florida Department of Environmental Protection",
+      "summary": "($380,553)"
+    },
+    {
+      "title": "PI: Assessing the effects of environmental co-factors on SCTLD transmission and progression rates",
+      "date": "2022",
+      "awarder": "Florida Department of Environmental Protection",
+      "summary": "($145,350)"
+    },
+    {
+      "title": "NRC Postdoctoral fellow",
+      "date": "2019",
+      "awarder": "US National Research Council",
+      "summary": "($115,000)"
     }
   ],
   "publications": [

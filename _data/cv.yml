@@ -9,22 +9,21 @@
 - title: Education
   type: time_table
   contents:
-    
     - title: PhD
       institution: University of Miami, Miami, USA
       year: 2019
-      Dissertation: Abiotic controls on endosymbiotic algal communities and their implications for coral bleaching susceptibility and recovery. 
+      Dissertation: Abiotic controls on endosymbiotic algal communities and their implications for coral bleaching susceptibility and recovery.
       Advisor: Andrew C. Baker
       description:
         - Implemented field and laboratory experiments to understand the mechanisms underlying differential coral bleaching susceptibility.
         - Identified dynamic changes in Symbiodiniaceae communities during heat stress and recovery using qPCR.
         - Tested what coral species increase their temperature tolerance through the acquisition of thermotolerant symbionts during natural bleaching events in Florida and Panama.
-        - Assessed the effect of elevated nutrients and CO2 on pre-bleaching symbiont communities and further bleaching susceptibility. 
-    
+        - Assessed the effect of elevated nutrients and CO2 on pre-bleaching symbiont communities and further bleaching susceptibility.
+
     - title: B.S
       institution: Universidad de Antioquia, Medellin, Colombia
       year: 2010
-      Thesis: Comparison of methods for monitoring sessile benthic communities in “La Azufrada”, coral reef, Gorgona Island National Natural Park. 
+      Thesis: Comparison of methods for monitoring sessile benthic communities in “La Azufrada”, coral reef, Gorgona Island National Natural Park.
       Advisor: Fernando A. Zapata.
 
 - title: Experience
@@ -33,15 +32,14 @@
     - title: Assistant Scientist
       institution: University of Miami - CIMAS / NOAA-AOML
       year: 2023 - 2024
-        
+
     - title: Postdoctoral Researcher
-      institution:  University of Miami - CIMAS / NOAA-AOML
+      institution: University of Miami - CIMAS / NOAA-AOML
       year: 2022-2023
 
     - title: Postdoctoral Fellow
-      institution: National Research Council 	
+      institution: National Research Council
       year: 2019-2021
-      
 #- title: Grants and Awards
 #  type: time_table
 #  contents:
@@ -50,20 +48,20 @@
 #     institution: National Ocean Service (NOS), National Oceanic and Atmospheric Administration (NOAA) ($4,080,792)
 #      description:
 #      - Characterizing and forecasting coastal ecosystem responses to multiple stressors for management applications in South Florida
-#   
+#
 #    - title: Grant - PI
 #      year: 2023-2024
 #      institution: Florida Department of Environmental Protection ($380,553)
 #      description:
 #      - High-replication assessment of the effects of poor water quality on South Florida coral health and susceptibility to Stony Coral Tissue Loss Disease
-#        
+#
 #    - title: Grant - PI
 #      year: 2022-2023
 #     institution: Florida Department of Environmental Protection ($145,350)
 #      description:
- #     - Assessing the effects of environmental co-factors on SCTLD transmission and progression rates
-  #      
-  #  - title: Award
+#     - Assessing the effects of environmental co-factors on SCTLD transmission and progression rates
+#
+#  - title: Award
 #      year: 2019-2020
 #      institution: US National Research Council ($115,000)
 #      description:

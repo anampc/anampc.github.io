@@ -119,7 +119,6 @@ cronitor_analytics: 257262501 # cronitor RUM analytics site ID (format: XXXXXXXX
 google_site_verification: # your google-site-verification ID (Google Search Console)
 bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 
-
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
 # -----------------------------------------------------------------------------
@@ -157,7 +156,18 @@ enable_publication_badges:
 
 # Filter out certain bibtex entry keywords used internally from the bib output
 filtered_bibtex_keywords:
-  [arxiv, bibtex_show, blog, poster, preview, selected, slides, supp, video, website]
+  [
+    arxiv,
+    bibtex_show,
+    blog,
+    poster,
+    preview,
+    selected,
+    slides,
+    supp,
+    video,
+    website,
+  ]
 
 # Maximum number of authors to be shown for each publication (more authors are visible on click)
 max_author_limit: 4 # leave blank to always show all authors
@@ -325,7 +335,6 @@ jekyll-archives:
 display_tags: ["ETP", "resources", "climate-change"] # these tags will be displayed on the front page of your blog
 display_categories: ["research", "outreach", "open-science"] # these categories will be displayed on the front page of your blog
 
-
 # -----------------------------------------------------------------------------
 # Jekyll Link Attributes
 # -----------------------------------------------------------------------------
@@ -467,10 +476,12 @@ jsonresume:
   - basics
   - education
   - work
+  - awards
   - publications
   - presentations
-  - grants and awards
-  - teaching and mentoring 
-  - research expeditions
+  - teaching
+  - mentoring
+  - expeditions
   - skills
-  - languages
+  - reviwer
+  - references
