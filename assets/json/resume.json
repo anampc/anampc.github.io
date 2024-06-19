@@ -20,24 +20,44 @@
       "institution": "University of Miami",
       "location": "Miami, USA",
       "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
+      "area": "Marine Biology and Ecology",
+      "studyType": "Ph.D.",
       "startDate": "2013",
       "endDate": "2018",
-      "Dissertation": ["Abiotic controls on endosymbiotic algal communities and their implications for coral bleaching susceptibility and recovery."
-	]
+      "summary": "Abiotic controls on endosymbiotic algal communities and their implications for coral bleaching susceptibility and recovery."
+    },
+    {
+	  "institution": "Universidad de Antioquia",
+	  "location": "Medellin, Colombia",
+	  "area": "Biology",
+	  "studyType": "B.S.",
+	  "startDate": "2003",
+	  "endDate": "2010",
+	  "summary": "Comparison of methods for monitoring sessile benthic communities in “La Azufrada”, coral reef, Gorgona Island National Natural Park."			
     }
   ],
   "work": [
-    {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
+    { "name": "UM-CIMAS, NOAA-AOML",
+	  "position": "Assistant Scientist",
+	  "url": "https://cimas.earth.miami.edu/",
+	  "startDate": "2023-06-01",
+	  "endDate": "Present",
+	  "summary": "XX"
+	},
+	{ "name": "UM-CIMAS, NOAA-AOML",
+	  "position": "Postdoctoral researcher",
+	  "startDate": "2022-01-01",
+	  "endDate": "2023-05-31",
+	  "summary": "XX"
+	},
+	{
+	  "name": "National Research Council",
+	  "position": "Postdoctoral Fellow",
+	  "website": "https://www.nationalacademies.org/",
+	  "startDate": "2019-10-30",
+	  "endDate": "2021-12-31",
+	  "summary": "XX"
+	}
   ],
   "awards": [
     {
