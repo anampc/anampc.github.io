@@ -6,7 +6,7 @@
     "email": "apalacio@earth.miami.edu",
     "phone": "(305) 361-4400",
     "url": "https://anampc.github.io",
-    "summary": "A biologist interested how ocean warming, acidification, diseases, and pollution affect corals. I identify environmental and genetic factors that promote more resistant corals that could survive in our fast changing world.",
+    "summary": "Biologist interested how ocean warming, acidification, diseases, and pollution affect corals. I identify environmental and genetic factors that promote more resistant corals that could survive in our fast changing world.",
     "location": {
       "address": "4301 Rickenbacker Causeway",
       "postalCode": "FL 33149",
@@ -18,24 +18,26 @@
   "education": [
     {
       "institution": "University of Miami",
-      "icon": "fa-solid fa-graduatio-cap",
+      "icon": "fa-solid fa-graduation-cap",
       "location": "Miami, USA",
-      "url": "https://www.uzh.ch/",
+      "url": "https://www.earth.miami.edu/",
       "area": "Marine Biology and Ecology",
       "studyType": "Ph.D.",
       "startDate": "2013",
       "endDate": "2018",
-      "thesis": "Abiotic controls on endosymbiotic algal communities and their implications for coral bleaching susceptibility and recovery."
+      "thesis": "Dissertation: Abiotic controls on endosymbiotic algal communities and their implications for coral bleaching susceptibility and recovery.",
+      "bulletpoints": ""  
     },
     {
 	  "institution": "Universidad de Antioquia",
-	  "icon": "fa-solid fa-graduatio-cap",
+	  "icon": "fa-solid fa-graduation-cap",
 	  "location": "Medellin, Col",
+	  "url": "https://www.udea.edu.co"
 	  "area": "Biology",
 	  "studyType": "B.S.",
 	  "startDate": "2003",
 	  "endDate": "2010",
-	  "thesis": "Comparison of methods for monitoring sessile benthic communities in “La Azufrada”, coral reef, Gorgona Island National Natural Park."			
+	  "thesis": "Thesis: Comparison of methods for monitoring sessile benthic communities in “La Azufrada”, coral reef, Gorgona Island National Natural Park."			
     }
   ],
   "work": [
@@ -45,13 +47,13 @@
 	  "url": "https://cimas.earth.miami.edu/",
 	  "startDate": "2023-06-01",
 	  "endDate": "Present",
-	  "summary": "XX"
+	  "summary": "Conducted research and successfully acquired funding. Oversaw laboratory and field-based research projects. Authored publications in peer-reviewed journals and presented research at conferences. Acted as Co-Principal Investigator (Co-PI) and Principal Investigator (PI) on grants totaling over four million dollars. Disseminated research findings through various popular media channels. Supervised two undergraduate students and participated on a Master’s student committee."
 	},
 	{ "name": "UM-CIMAS, NOAA-AOML",
 	  "position": "Postdoctoral researcher",
 	  "startDate": "2022-01-01",
 	  "endDate": "2023-05-31",
-	  "summary": "XX"
+	  "summary": "Conducted research and successfully acquired funding. Led laboratory research projects. Authored publications in peer-reviewed journals and presented at internaional conferences. Acted as Co-Principal Investigator (Co-PI) and Principal Investigator (PI) on grants. Disseminated research findings through various popular media channels. Participated on a Master’s student committee."
 	},
 	{
 	  "name": "National Research Council",
