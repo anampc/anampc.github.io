@@ -1,11 +1,16 @@
 {
   "basics": {
     "name": "Ana M. Palacio Castro",
-    "label": "Assistant Scientist",
+    "current position": "Assistant Scientist",
     "image": "",
     "email": "apalacio@earth.miami.edu",
     "url": "https://anampc.github.io",
-    "summary": "I am a biologist interested in the future of our oceans. My main focus of research has been how ocean warming, acidification, diseases, and pollution affect corals and disrupt the coral-algal symbiosis, causing coral bleaching and mortality. I also identify environmental and genetic factors that promote more resistant corals that could survive in our fast changing world",
+    "research interest": "I am a biologist interested in the future of our
+		oceans. My main focus of research has been how ocean warming,
+		acidification, diseases, and pollution affect corals and disrupt the
+		coral-algal symbiosis, causing coral bleaching and mortality. I also
+		identify environmental and genetic factors that promote more resistant
+		corals that could survive in our fast changing world",
     "location": {
       "address": "4301 Rickenbacker Cswy",
       "postalCode": "Fl 33145",
