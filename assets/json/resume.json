@@ -18,22 +18,24 @@
   "education": [
     {
       "institution": "University of Miami",
+      "icon": "fa-solid fa-graduatio-cap",
       "location": "Miami, USA",
       "url": "https://www.uzh.ch/",
       "area": "Marine Biology and Ecology",
       "studyType": "Ph.D.",
       "startDate": "2013",
       "endDate": "2018",
-      "summary": "Abiotic controls on endosymbiotic algal communities and their implications for coral bleaching susceptibility and recovery."
+      "thesis": "Abiotic controls on endosymbiotic algal communities and their implications for coral bleaching susceptibility and recovery."
     },
     {
 	  "institution": "Universidad de Antioquia",
+	  "icon": "fa-solid fa-graduatio-cap",
 	  "location": "Medellin, Colombia",
 	  "area": "Biology",
 	  "studyType": "B.S.",
 	  "startDate": "2003",
 	  "endDate": "2010",
-	  "summary": "Comparison of methods for monitoring sessile benthic communities in “La Azufrada”, coral reef, Gorgona Island National Natural Park."			
+	  "thesis": "Comparison of methods for monitoring sessile benthic communities in “La Azufrada”, coral reef, Gorgona Island National Natural Park."			
     }
   ],
   "work": [
@@ -87,12 +89,37 @@
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
+      "title": "Zur Elektrody/namik bewegter Körper",
       "publisher": "Annalen der Physik",
       "releaseDate": "1905-06-30",
       "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
       "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
     },
+	{
+	"title": "Coral reef resilience to thermal stress in the Eastern Tropical Pacific",
+	"publisher": "Glob Chang Biol",
+	"releaseDate": "2020",
+	"url": "https://doi.org/10.1111/gcb.15126",
+	"authors": [
+	"M Romero-Torres", 
+	"A Acosta",
+	"AM Palacio-Castro",
+	"EA Treml", 
+	"et al."
+			]
+	},
+	{
+	"title": "Source location and food availability determine the growth response of Orbicella faveolata to climate change stressors",
+	"publisher": "Regional Studies in Marine Science",
+	"releaseDate": "2017",
+	"url": "https://doi.org/10.1016/j.rsma.2017.01.007",
+	"authors": [
+	"EK Towle",
+	"AM Palacio-Castro",
+	"AC Baker", 
+	"C Langdon"
+			]
+	}
     {
       "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
       "publisher": "Annalen der Physik",
@@ -110,25 +137,19 @@
   ],
   "presentations": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "title": "Zur Elektrody/namik bewegter Körper",
+      "conference": "Annalen der Physik",
+      "presDate": "1905-06-30"
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "title": "Zur Elektrody/namik bewegter Körper",
+      "conference": "Annalen der Physik",
+      "presDate": "1905-06-30"
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "title": "Zur Elektrody/namik bewegter Körper",
+      "conference": "Annalen der Physik",
+      "presDate": "1905-06-30"
     }
   ],
   "teaching": [
@@ -256,16 +277,16 @@
       ]
     },
     {
-      "name": "Diving",
+      "name": "Diving and boating (Agency, Year)",
       "level": "Master",
       "icon": "fa-solid fa-water",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "AAUS 100ft scientific diver (2013) - 400+ dives",
+        "Enriched Air – Nitrox (TDI, 2022, 1293906)",
+        "AWARE coral reef conservation (PADI, 2015, 15110U4056)",
+        "First aid for professional divers (DAN, 2014-2024)",
+        "Small motor boats (MOCC - US Geological Survey, 2013)",
+        "Advanced open water diver (PADI, 2009)"
       ]
     },
     {
@@ -280,15 +301,21 @@
   ],
   "reviwer": [
     {
-      "name": "Physics",
+      "name": "Journal Peer Reviewer",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Global Change Biology",
+        "PeerJ",
+        "Ecology, Marine Ecology, Biodiversity and Conservation, PlosOne, Climatic Change, Aquatic sciences"
+      ]
+    },
+    {
+      "name": "Dissertation reviewer (Degree, year of graduation)",
+      "icon": "fa-solid fa-book",
+      "keywords": [
+        "Global Change Biology",
+        "PeerJ",
+        "Ecology, Marine Ecology, Biodiversity and Conservation, PlosOne, Climatic Change, Aquatic sciences"
       ]
     }
   ],

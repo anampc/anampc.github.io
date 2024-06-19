@@ -6,7 +6,6 @@ categories: open-science
 tag: resources
 ---
 
-
 Most of my current data analysis uses R and R packages. During college, I first used proprietary programs for statistical analysis. The learning curve was not so steep, but replicating the analyses became difficult after changing computers or losing access to the software licences (They were quite expensive for a student!). Additionally, using these programs became more difficult when I changed my operating system to a [GNU/Linux](https://www.gnu.org/) distribution that was more according to my [philosophy](https://www.gnu.org/philosophy/philosophy.html).
 
 ​I finally decided to stop being scared of R and tried it during my first year in grad school. Yes, it took me more time to learn how to start using it, but now I cannot go back to any other software for my statistical analyses and graphics. R has thousands of packages, so you have almost limitless options.
