@@ -478,10 +478,10 @@ jsonresume:
   - work
   - awards
   - publications
-  - presentations
-  - teaching
-  - mentoring
-  - expeditions
+  #- presentations
+  #- teaching
+  #- mentoring
+  #- expeditions
   - skills
-  - reviwer
+  #- reviwer
   - references
