@@ -13,16 +13,14 @@
 			"countryCode": "Fl",
 			"region": "Florida"
 		},
-		"profiles": [
-			
+		"profiles": [		
 			{
 				"network": "github",
 				"username": "anampc",
 				"url": "http://github.com/anampc"
 			}
 		]
-	},
-	
+	},	
 	"education": [
 		{
 			"institution": "University of Miami",
@@ -47,7 +45,6 @@
 		}
 		
 	],
-	
 	"professional experience": [
 		{
 			"company": "UM-CIMAS, NOAA-AOML",
@@ -75,22 +72,13 @@
 			]
 		},
 		{
-			"company": "Postdoctoral Fellow",
+			"company": "National Research Council",
 			"position": "Postdoctoral Fellow",
-			"positions": [
-				{
-					"title": "Postdoctoral Fellow",
-					"startDate": "2019-10-30",
-					"endDate": "2021-12-31"
-				}
-			],
 			"website": "https://www.nationalacademies.org/",
 			"startDate": "2019-10-30",
-			"endDate": "2021-12-31",
-			]
+			"endDate": "2021-12-31"
 		}
 	],
-	
 	"publications": [
 		{
 			"name": "12",
@@ -226,7 +214,6 @@
 			]
 		}
 	],
-	
 	"first author presentations": [
 		{
 			"name": "PresentationTitle",
@@ -241,8 +228,7 @@
 			]
 		}
 	],
-	
-	"awards": [
+	"fellowships and awards": [
 		{
 			"title": "Award",
 			"date": "2014-11-01",
@@ -250,8 +236,7 @@
 			"summary": "SummaryOfAward."
 		}
 	],
-	
-	  "certificates": [
+	"certificates": [
 
     {
       "name": "Quantum Computing",
@@ -268,16 +253,21 @@
       "icon": "fa-solid fa-envelope"
     }
   ],
-  
-  
-	"skills": [
+	"teaching and mentoring": [
 		{
-			"name": "SkillName",
+			"name": "teaching",
 			"level": "SkillLevel",
 			"keywords": [
 				"Related-SubSkill-1",
 				"Related-SubSkill-2",
 				"Related-SubSkill-3"
+			]
+		},
+		{
+			"name": "mentoring",
+			"level": "Committee member",
+			"keywords": [
+				"(2) Master Students"
 			]
 		}
 	],
@@ -289,15 +279,6 @@
 		{
 			"name": "English",
 			"level": "Proficient"
-		}
-	],
-	"interests": [
-		{
-			"name": "InterestName",
-			"keywords": [
-				"RelatedInterest1",
-				"RelatedInterest2"
-			]
 		}
 	]
 }
