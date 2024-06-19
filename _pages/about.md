@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Hi, I'm Ana. I am a biologist interested in the future of our oceans. My main focus of research has been how ocean warming, acidification, diseases, and pollution affect corals and disrupt the coral-algal symbiosis, causing coral bleaching and mortality. I am also trying to identify (environmental and genetic) factors that promote more resistant corals that could survive in our fast changing world.
+Hi, I'm Ana. I am a biologist interested in the future of our oceans. My main focus of research has been how ocean warming, acidification, diseases, and pollution affect corals and disrupt the coral-algal symbiosis, causing coral bleaching and mortality. I also aim to identify environmental and genetic factors that enhance corals resistance increasing their survivorship in our fast changing world.
 
 I use a combination of fieldwork and laboratory experiments to better understand corals' susceptibility and tolerance to these stressors. I collect small coral samples during my expeditions and experiments, which then I analyze with molecular techniques and bioinformatic tools.
 
