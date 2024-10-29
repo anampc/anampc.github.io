@@ -28,7 +28,7 @@ Here are some useful links and materials to get started:
 ​
 **Git and GitHub**:
 
-* [Pro Git](https://git-scm.com/book/en/v2%E2%80%8B) book by Scott Chacon and Ben Straub. I followed this step by step when I was learning to use git. Highly recommended
+* [Pro Git](https://git-scm.com/book/en/v2) book by Scott Chacon and Ben Straub. I followed this step by step when I was learning to use git. Highly recommended
 
 * [Ten Simple Rules for Taking Advantage of Git and GitHub](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004947)
 
