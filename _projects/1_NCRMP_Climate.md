@@ -9,7 +9,7 @@ category: field work
 
 The AOML Coral Program tracks the status and trends of coral reef ecosystems of the U.S. Atlantic and Caribbean as part of the National Coral Reef Monitoring Program (NCRMP). These **field summaries** provide an overview of the most recent NCRMP climate monitoring efforts
 
-* [Climate Monitoring Brief: Dry Tortugas National Park](https://anampc.github.io/NCRMP_2022_STX) - November 2024
+* [Climate Monitoring Brief: Dry Tortugas National Park](https://anampc.github.io/NCRMP_2024_DRTO/) - November 2024
 
 * [Climate Monitoring Brief: Saint Thomas (STT) and Saint John (STJ)](https://anampc.github.io/NCRMP_2023_STT_STJ/) - February 2024
 

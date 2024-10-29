@@ -22,7 +22,3 @@ tags: resources
 - [Semantic Scholar](https://www.semanticscholar.org/): search engine for academic publications that uses artificial intelligence to highlight the most important papers, and to identify the connections between them.
 
 - [Connected Papers](https://www.connectedpapers.com/): a visual tool that helps you to find and explore papers relevant to a field of work.
-
-## Academic writing
-
-[oacommunity](https://www.oacommunity.org/resources): Various resources related to academic writing collected and adapted by @OpenAcademics
