@@ -18,5 +18,5 @@ After the six weeks, each coral was exposed to one of two treatments: one being 
 With each A. cervicornis genotype then exposed to all combinations of normal or heightened nutrient levels and disease or no disease simultaneously, scientists at AOML analyzed the fragments daily, examining any tissue loss, and overall survivorship.
 [Continue reading](https://www.aoml.noaa.gov/new-study-demonstrates-the-impacts-of-multiple-stressors-on-reef-building-corals/)
 
-Related publications {% cite Palacio_Resistada_2025 %}.
+Related publications {% cite PalacioResistada2025 %}.
 
