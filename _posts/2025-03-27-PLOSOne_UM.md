@@ -16,7 +16,5 @@ Initially collected from three coral nurseries at Florida’s Fish and Wildlife 
 After the six weeks, each coral was exposed to one of two treatments: one being a placebo and the other a coral tissue infected with a white disease found in coral outplants. 
 
 With each A. cervicornis genotype then exposed to all combinations of normal or heightened nutrient levels and disease or no disease simultaneously, scientists at AOML analyzed the fragments daily, examining any tissue loss, and overall survivorship.
-[Continue reading](https://www.aoml.noaa.gov/new-study-demonstrates-the-impacts-of-multiple-stressors-on-reef-building-corals/)
-
-Related publications {% cite PalacioResistada2025 %}.
+[Continue reading](https://www.aoml.noaa.gov/new-study-demonstrates-the-impacts-of-multiple-stressors-on-reef-building-corals/).
 
