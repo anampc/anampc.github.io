@@ -14,7 +14,7 @@ footer_text: >
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 keywords: Ana Palacio, climate change, coral reefs, data analysis, omics, OA, coral bleaching
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: 🪸️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://anampc.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
@@ -49,7 +49,7 @@ navbar_fixed: true
 footer_fixed: true
 
 # Dimensions
-max_width: 800px
+max_width: 950px
 
 # TODO: add layout settings (single page vs. multi-page)
 
@@ -478,10 +478,10 @@ jsonresume:
   - work
   - awards
   - publications
-  #- presentations
+  - presentations
   #- teaching
   #- mentoring
   #- expeditions
   - skills
-  #- reviwer
+  #- reviewer
   - references
