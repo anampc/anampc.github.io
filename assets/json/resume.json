@@ -80,6 +80,7 @@
     {
       "title": "Co-PI: Characterizing and forecasting coastal ecosystem responses to multiple stressors for management applications in South Florida",
       "date": "2023",
+      "url": "https://www.aoml.noaa.gov/fresca/",
       "awarder": "National Ocean Service (NOS), National Oceanic and Atmospheric Administration (NOAA)",
       "summary": "($4,080,792)"
     },
@@ -98,140 +99,127 @@
     {
       "title": "NRC Postdoctoral fellow",
       "date": "2019",
+      "url": "https://www.nationalacademies.org/our-work/rap/nrc-research-associateship-programs",
       "awarder": "US National Research Council",
       "summary": "($115,000)"
     }
   ],
-  "publications": [
-  	{
+"publications": [
+  {
     "title": "Elevated temperature decreases stony coral tissue loss disease transmission, with little effect of nutrients",
     "publisher": "Scientific Reports",
     "releaseDate": "2025",
     "url": "https://doi.org/10.1038/s41598-025-06322-0",
-    "authors": ["Palacio-Castro, A.M.", "Soderberg, N.", "Zagon, Z.", "et al."]
-	},
-  	{
+    "authors": "<b>Palacio-Castro AM</b>, Soderberg N, Zagon Z, et al"
+  },
+  {
     "title": "Genotypes of <i>Acropora cervicornis</i> in Florida show resistance to either elevated nutrients or disease, but not both in combination",
     "publisher": "PLOS One",
     "releaseDate": "2025",
     "url": "https://doi.org/10.1371/journal.pone.0320378",
-    "authors": ["Palacio-Castro, A.M.", "Kroesche, D.", "Enochs, I.C.", "Kelble, C.", "Smith, I.", "Baker, A.", "Rosales, S.M."]
-  	},
-  	{
+    "authors": "<b>Palacio-Castro AM</b>, Kroesche D, Enochs IC, Kelble C, Smith I, Baker A, Rosales SM"
+  },
+  {
+    "title": "Three-dimensional photogrammetry-based monitoring to enhance site-level carbonate budget assessments of coral reefs",
+    "publisher": "Limnology and Oceanography: Methods",
+    "releaseDate": "2025",
+    "url": "https://doi.org/10.1002/lom3.70000",
+    "authors": "Morris JT, Edwards CB, Webb A, Barkley H, Viehman TS, <b>Palacio-Castro AM</b>, Wong M, Ramos-Rosado A, Hirsh HK, Besemer N, Petrovic V, Perry CT, Simmons KR, Enochs IC"
+  },
+  {
     "title": "Statistical prediction of in situ coral reef carbonate dynamics using endmember chemistry, hydrodynamic models, and benthic composition",
     "publisher": "Aquatic Geochemistry",
     "releaseDate": "2025",
     "url": "https://doi.org/10.1007/s10498-025-09438-x",
-    "authors": ["Hirsh, H.K.", "Oliver, T.A.", "Dobbelaere, T.", "Palacio-Castro, A.M.", "Barkley, H.C.", "Webb, A.E.", "Hanert, E.", "Enochs, I.C."]
-  	},
-    {
+    "authors": "Hirsh HK, Oliver TA, Dobbelaere T, <b>Palacio-Castro AM</b>, Barkley HC, Webb AE, Hanert E, Enochs IC"
+  },
+  {
     "title": "Sediment source and dose influence the larval performance of the threatened coral <i>Orbicella faveolata</i>",
-	"publisher": "PLOS ONE",
-	"releaseDate": "2024",
-	"url": "https://doi.org/10.1371/journal.pone.0292474",
-	"authors": ["Serrano XM, Rosales SM, Miller MW, Palacio-Castro AM, Williamson OM, et al." ]
-    },
-    {
+    "publisher": "PLOS ONE",
+    "releaseDate": "2024",
+    "url": "https://doi.org/10.1371/journal.pone.0292474",
+    "authors": "Serrano XM, Rosales SM, Miller MW, <b>Palacio-Castro AM</b>, Williamson OM, et al"
+  },
+  {
     "title": "Rubble persistence under ocean acidification threatened by accelerated bioerosion and lower-density coral skeletons",
-	"publisher": "Global Change Biology",
-	"releaseDate": "2024",
-	"url": "https://doi.org/10.1111/gcb.17371",
-	"authors": [
-	  "Webb AE, Palacio-Castro AM, Cooke K, Eaton KR, et al."
-	  ]
-    },
-    {
+    "publisher": "Global Change Biology",
+    "releaseDate": "2024",
+    "url": "https://doi.org/10.1111/gcb.17371",
+    "authors": "Webb AE, <b>Palacio-Castro AM</b>, Cooke K, Eaton KR, et al"
+  },
+  {
     "title": "Sequential Treatment Application Robot (STAR) for high-replication marine experimentation",
-	"publisher": "HardwareX",
-	"releaseDate": "2024",
-	"url": "https://doi.org/10.1016/j.ohx.2024.e00524",
-	"authors": [
-	  "Enochs IC, Soderberg N, Palacio-Castro AM, and Eaton K"
-	  ]
-    },
-    {
-    "title": " Coral reef carbonate chemistry reveals interannual, seasonal, and spatial impacts on Ocean Acidification off Florida",
-	"publisher": "Global Biogeochemical Cycles",
-	"releaseDate": "2023",
-	"url": "https://doi.org/10.1029/2023GB007789",
-	"authors": [
-	  "Palacio-Castro AM, Enochs IC, Besemer N, Boyd A, et al. "
-	  ]
-    },
-    {
+    "publisher": "HardwareX",
+    "releaseDate": "2024",
+    "url": "https://doi.org/10.1016/j.ohx.2024.e00524",
+    "authors": "Enochs IC, Soderberg N, <b>Palacio-Castro AM</b>, Eaton K"
+  },
+  {
+    "title": "Coral reef carbonate chemistry reveals interannual, seasonal, and spatial impacts on Ocean Acidification off Florida",
+    "publisher": "Global Biogeochemical Cycles",
+    "releaseDate": "2023",
+    "url": "https://doi.org/10.1029/2023GB007789",
+    "authors": "<b>Palacio-Castro AM</b>, Enochs IC, Besemer N, Boyd A, et al"
+  },
+  {
     "title": "Antibiotics reduce <i>Pocillopora</i> coral-associated bacteria diversity, decrease holobiont oxygen consumption, and activate immune gene expression",
-	"publisher": "Molecular Ecology",
-	"releaseDate": "2023",
-	"url": "https://doi.org/10.1111/mec.17049",
-	"authors": [
-	  "Connelly MT, Snyder GA, Palacio-Castro AM, PR Gillette, AC Baker, N Traylor-Knowles"
-	  ]
-    },
-    {
+    "publisher": "Molecular Ecology",
+    "releaseDate": "2023",
+    "url": "https://doi.org/10.1111/mec.17049",
+    "authors": "Connelly MT, Snyder GA, <b>Palacio-Castro AM</b>, Gillette PR, Baker AC, Traylor-Knowles N"
+  },
+  {
     "title": "Increased dominance of heat-tolerant symbionts create resilient coral reefs in near-term ocean warming",
-	"publisher": "PNAS",
-	"releaseDate": "2023",
-	"url": "https://doi.org/10.1073/pnas.2202388120",
-	"authors": [
-	  "Palacio-Castro AM, Smith TB, Snyder GA, Brandtneris V, van Hooidonk R, Maté JL, Manzello D, Glynn PW, Fong P, Baker AC "
-	  ]
-    },
-	{
-	"title": "Coral disease outbreak at the remote Flower Garden Banks, Gulf of Mexico",
-	"publisher": "Frontiers in Marine Science",
-	"releaseDate": "2023",
-	"url": "https://doi.org/10.3389/fmars.2023.1111749",
-	"authors": [
-	  "Johnston MA, Studivan MS, Enochs IC, Correa AMS, Besemer N, Eckert RJ, Edwards K, Hannum R, Hu X, Nuttall M, O’Connell K, Palacio-Castro AM, et al."
-	  ]
-	},
-	{
+    "publisher": "PNAS",
+    "releaseDate": "2023",
+    "url": "https://doi.org/10.1073/pnas.2202388120",
+    "authors": "<b>Palacio-Castro AM</b>, Smith TB, Snyder GA, Brandtneris V, van Hooidonk R, Maté JL, Manzello D, Glynn PW, Fong P, Baker AC"
+  },
+  {
+    "title": "Coral disease outbreak at the remote Flower Garden Banks, Gulf of Mexico",
+    "publisher": "Frontiers in Marine Science",
+    "releaseDate": "2023",
+    "url": "https://doi.org/10.3389/fmars.2023.1111749",
+    "authors": "Johnston MA, Studivan MS, Enochs IC, Correa AMS, Besemer N, Eckert RJ, Edwards K, Hannum R, Hu X, Nuttall M, O’Connell K, <b>Palacio-Castro AM</b>, et al"
+  },
+  {
     "title": "Microbiome signatures in <i>Acropora cervicornis</i> are associated with genotypic resistance to elevated nutrients and heat stress",
-	"publisher": "Coral Reefs",
-	"releaseDate": "2022",
-	"url": "https://link.springer.com/article/10.1007/s00338-022-02289-w",
-	"authors": [
-	  "Palacio-Castro AM, Rosales SM, Dennison CE, Baker AC"
-	  ]
-    },
-    {
+    "publisher": "Coral Reefs",
+    "releaseDate": "2022",
+    "url": "https://link.springer.com/article/10.1007/s00338-022-02289-w",
+    "authors": "<b>Palacio-Castro AM</b>, Rosales SM, Dennison CE, Baker AC"
+  },
+  {
     "title": "Variation in susceptibility among three Caribbean coral species and their algal symbionts indicates the threatened staghorn coral, <i>Acropora cervicornis</i>, is particularly susceptible to elevated nutrients and heat stress",
-	"publisher": "Coral Reefs",
-	"releaseDate": "2021",
-	"url": "https://link.springer.com/article/10.1007/s00338-021-02159-x",
-	"authors": [
-	  "Palacio-Castro, AM, Dennison CE, Rosales SM, Baker AC"
-	  ]
-    },
-    {
+    "publisher": "Coral Reefs",
+    "releaseDate": "2021",
+    "url": "https://link.springer.com/article/10.1007/s00338-021-02159-x",
+    "authors": "<b>Palacio-Castro AM</b>, Dennison CE, Rosales SM, Baker AC"
+  },
+  {
     "title": "Increased algal symbiont density reduces host immunity in a threatened Caribbean coral species, <i>Orbicella faveolata</i>",
-	"publisher": "Frontiers in Ecology and Evolution",
-	"releaseDate": "2020",
-	"url": "https://doi.org/10.3389/fevo.2020.572942",
-	"authors": [
-	  "Fuess LE, Palacio-Castro AM, Butler CC, Baker AC, Mydlarz LD"
-	  ]
-    },
-	{
-	"title": "Coral reef resilience to thermal stress in the Eastern Tropical Pacific",
-	"publisher": "Global Change Biology",
-	"releaseDate": "2020",
-	"url": "https://doi.org/10.1111/gcb.15126",
-	"authors": [
-	  "M Romero-Torres, A Acosta, AM Palacio-Castro, EA Treml, et al."
-	  ]
-	},
-	{
-	"title": "Source location and food availability determine the growth response of <i>Orbicella faveolata</i> to climate change stressors",
-	"publisher": "Regional Studies in Marine Science",
-	"releaseDate": "2017",
-	"url": "https://doi.org/10.1016/j.rsma.2017.01.007",
-	"authors": [
-	  "EK Towle, AM Palacio-Castro, AC Baker, C Langdon"
-	  ]
-	}
-  ],
-  "presentations": [
+    "publisher": "Frontiers in Ecology and Evolution",
+    "releaseDate": "2020",
+    "url": "https://doi.org/10.3389/fevo.2020.572942",
+    "authors": "Fuess LE, <b>Palacio-Castro AM</b>, Butler CC, Baker AC, Mydlarz LD"
+  },
+  {
+    "title": "Coral reef resilience to thermal stress in the Eastern Tropical Pacific",
+    "publisher": "Global Change Biology",
+    "releaseDate": "2020",
+    "url": "https://doi.org/10.1111/gcb.15126",
+    "authors": "Romero-Torres M, Acosta A, <b>Palacio-Castro AM</b>, Treml EA, et al"
+  },
+  {
+    "title": "Source location and food availability determine the growth response of <i>Orbicella faveolata</i> to climate change stressors",
+    "publisher": "Regional Studies in Marine Science",
+    "releaseDate": "2017",
+    "url": "https://doi.org/10.1016/j.rsma.2017.01.007",
+    "authors": "Towle EK, <b>Palacio-Castro AM</b>, Baker AC, Langdon C"
+  }
+],
+
+"presentations": [
   {
     "conference": "Reef Futures 2024, Riviera Maya, Mexico",
     "presDate": "2024"
@@ -407,6 +395,9 @@
       "name": "Ian Enochs, Ph.D.",
       "icon": "fa-solid fa-robot",
       "reference": "Research Ecologist. NOAA - AOML"
-    }
+    }, 
+    {"name": "Benjamin Kirtman, Ph.D.",
+      "icon": "fa-solid fa-water",
+      "reference": "Cooperative Institute for Marine and Atmospheric Studies"}
   ]
 }
