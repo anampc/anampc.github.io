@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Ana M. Palacio Castro",
-    "label": "Assistant Scientist",
+    "label": "Associate Scientist",
     "image": "",
     "email": "apalacio@earth.miami.edu",
     "phone": "(305) 361-4400",
@@ -21,8 +21,7 @@
       "icon": "fa-solid fa-graduation-cap",
       "location": "Miami, USA",
       "url": "https://www.earth.miami.edu/",
-      "area": "Marine Biology and Ecology",
-      "studyType": "Ph.D.",
+      "studyType": "Ph.D. Marine Biology and Ecology",
       "startDate": "2013",
       "endDate": "2018",
       "thesis": "Dissertation: Abiotic controls on endosymbiotic algal communities and their implications for coral bleaching susceptibility and recovery."  
@@ -32,20 +31,30 @@
 	  "icon": "fa-solid fa-graduation-cap",
 	  "location": "Medellin, Col",
 	  "url": "https://www.udea.edu.co",
-	  "area": "Biology",
-	  "studyType": "B.S.",
+	  "studyType": "B.S. Biology",
 	  "startDate": "2003",
 	  "endDate": "2010",
 	  "thesis": "Thesis: Comparison of methods for monitoring sessile benthic communities in “La Azufrada”, coral reef, Gorgona Island National Natural Park."			
     }
   ],
   "work": [
-    { 
+      { 
+      "name": "UM-CIMAS, NOAA-AOML",
+	  "position": "Associate Scientist",
+	  "url": "https://cimas.earth.miami.edu/",
+	  "startDate": "2025-12-01",
+	  "endDate": "Present",
+	  "highlights": [
+	  		"Oversee laboratory and field-based research projects across coral reef health and resilience",
+  			"Authored three publications in peer-reviewed journals and presented at scientific conferences",
+  			"Advise postdoctoral researchers"]
+	},
+	{ 
       "name": "UM-CIMAS, NOAA-AOML",
 	  "position": "Assistant Scientist",
 	  "url": "https://cimas.earth.miami.edu/",
 	  "startDate": "2023-06-01",
-	  "endDate": "Present",
+	  "endDate": "2025-11-31",
 	  "highlights": [
 	  		"Oversee laboratory and field-based research projects across coral reef health and resilience",
   			"Authored six publications in peer-reviewed journals and presented at two scientific conferences",
@@ -77,6 +86,18 @@
 	}
   ],
   "awards": [
+	{
+      "title": "Evaluating and enhancing coral reefs' persistence and restoration: Integrative approaches for adaptation and management",
+      "date": "2025",
+      "awarder": "NOAA",
+      "summary": "($265,641)"
+    },
+    {
+      "title": "Co-PI: Automated technologies for ex situ coral propagation",
+      "date": "2025",
+      "awarder": "Florida Department of Environmental Protection",
+      "summary": "($297,390)"
+    }, 	  
     {
       "title": "Co-PI: Characterizing and forecasting coastal ecosystem responses to multiple stressors for management applications in South Florida",
       "date": "2023",
@@ -105,6 +126,20 @@
     }
   ],
 "publications": [
+    {
+    "title": "Genome Skimming Illuminates Hidden Species Diversity and Symbiodiniaceae Associations in East Pacific <i>Pocillopora</i> Corals",
+    "publisher": "Genome Biology and Evolution",
+    "releaseDate": "2026",
+    "url": "https://academic.oup.com/gbe/article/18/2/evaf235/8363997",
+    "authors": "Connelly MT, Glynn VM, Cornejo A, Villalobos-Cubero T, Kleypas J, Alvarado JJ, Brandt M, Logan CA, <b>Palacio-Castro AM</b>, Flot J-F,  Leray M, Connolly SR, Quattrini AM"
+  },
+  {
+    "title": "Differences in molecular responses to a thermally variable preconditioning treatment for two Caribbean coral species",
+    "publisher": "Ecology and Evolution",
+    "releaseDate": "2025",
+    "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/ece3.72108",
+    "authors": "DeMerlis A, Studivan MS, Wong K, Soderberg N, Ehrens D, Isma LM, Rosing K, Cocson KS, Thomas R, Dvorkin D, Kiel PM, Unsworth JD, D'Alessandro M, <b>Palacio-Castro AM</b>, Lirman D, Baker AC, Muller EM, Traylor-Knowles N, Enochs IC"
+  },
   {
     "title": "Elevated temperature decreases stony coral tissue loss disease transmission, with little effect of nutrients",
     "publisher": "Scientific Reports",
