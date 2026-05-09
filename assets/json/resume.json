@@ -45,25 +45,27 @@
 	  "startDate": "2025-12-01",
 	  "endDate": "Present",
 	  "highlights": [
+	  		"Serve as Principal Investigator on multiple research projects, overseeing project strategy, budgets, personnel, and execution", 
 	  		"Oversee laboratory and field-based research projects across coral reef health and resilience",
-  			"Authored three publications in peer-reviewed journals and presented at scientific conferences",
-  			"Advise postdoctoral researchers"]
+  			"Authored publications in peer-reviewed journals and presented at scientific conferences",
+  			"Advise and mentor postdoctoral researchers, PhD and Master students"]
 	},
 	{ 
       "name": "UM-CIMAS, NOAA-AOML",
 	  "position": "Assistant Scientist",
 	  "url": "https://cimas.earth.miami.edu/",
 	  "startDate": "2023-06-01",
-	  "endDate": "2025-11-31",
+	  "endDate": "2025-11-30",
 	  "highlights": [
 	  		"Oversee laboratory and field-based research projects across coral reef health and resilience",
-  			"Authored six publications in peer-reviewed journals and presented at two scientific conferences",
+  			"Authored publications in peer-reviewed journals and presented at scientific conferences",
   			"Secured over $4 million in research funding and served as both Principal Investigator (PI) and Co-Principal Investigator (Co-PI) on multiple competitive grants",
   			"Supervised undergraduate and Master's students",
   			"Received the CIMAS Outstanding Science Award"]
 	},
 	{ "name": "UM-CIMAS, NOAA-AOML",
 	  "position": "Postdoctoral researcher",
+	  "url": "https://cimas.earth.miami.edu/",
 	  "startDate": "2022-01-01",
 	  "endDate": "2023-05-31",
 	  "highlights": [
@@ -76,7 +78,7 @@
 	{
 	  "name": "National Research Council",
 	  "position": "Postdoctoral Fellow",
-	  "website": "https://www.nationalacademies.org/",
+	  "url": "https://www.nationalacademies.org/",
 	  "startDate": "2019-10-30",
 	  "endDate": "2021-12-31",
 	 "highlights": [
@@ -126,7 +128,21 @@
     }
   ],
 "publications": [
-    {
+  {
+  "title": "Real-time acidification monitoring through Sofar buoy and SAMI-pH integration",
+  "publisher": "HardwareX",
+  "releaseDate": "2026",
+  "url": "https://doi.org/10.1016/j.ohx.2026.e00772",
+  "authors": "Gill TJ, Jankulak M, Osborne J, Kiel PM, <b>Palacio-Castro AM</b>, Enochs IC"
+  },
+  {
+  "title": "Alkalinity enrichment stimulates calcification and linear extension in <i>Acropora cervicornis</i>",
+  "publisher": "Scientific Reports",
+  "releaseDate": "2026",
+  "url": "https://doi.org/10.1038/s41598-026-44817-6",
+  "authors": "Cooke KM, <b>Palacio-Castro AM</b>, Boyd A, et al."
+   },
+   {
     "title": "Genome Skimming Illuminates Hidden Species Diversity and Symbiodiniaceae Associations in East Pacific <i>Pocillopora</i> Corals",
     "publisher": "Genome Biology and Evolution",
     "releaseDate": "2026",
@@ -145,7 +161,7 @@
     "publisher": "Scientific Reports",
     "releaseDate": "2025",
     "url": "https://doi.org/10.1038/s41598-025-06322-0",
-    "authors": "<b>Palacio-Castro AM</b>, Soderberg N, Zagon Z, et al"
+    "authors": "<b>Palacio-Castro AM</b>, Soderberg N, Zagon Z, et al."
   },
   {
     "title": "Genotypes of <i>Acropora cervicornis</i> in Florida show resistance to either elevated nutrients or disease, but not both in combination",
@@ -173,14 +189,14 @@
     "publisher": "PLOS ONE",
     "releaseDate": "2024",
     "url": "https://doi.org/10.1371/journal.pone.0292474",
-    "authors": "Serrano XM, Rosales SM, Miller MW, <b>Palacio-Castro AM</b>, Williamson OM, et al"
+    "authors": "Serrano XM, Rosales SM, Miller MW, <b>Palacio-Castro AM</b>, Williamson OM, et al."
   },
   {
     "title": "Rubble persistence under ocean acidification threatened by accelerated bioerosion and lower-density coral skeletons",
     "publisher": "Global Change Biology",
     "releaseDate": "2024",
     "url": "https://doi.org/10.1111/gcb.17371",
-    "authors": "Webb AE, <b>Palacio-Castro AM</b>, Cooke K, Eaton KR, et al"
+    "authors": "Webb AE, <b>Palacio-Castro AM</b>, Cooke K, Eaton KR, et al."
   },
   {
     "title": "Sequential Treatment Application Robot (STAR) for high-replication marine experimentation",
@@ -194,7 +210,7 @@
     "publisher": "Global Biogeochemical Cycles",
     "releaseDate": "2023",
     "url": "https://doi.org/10.1029/2023GB007789",
-    "authors": "<b>Palacio-Castro AM</b>, Enochs IC, Besemer N, Boyd A, et al"
+    "authors": "<b>Palacio-Castro AM</b>, Enochs IC, Besemer N, Boyd A, et al."
   },
   {
     "title": "Antibiotics reduce <i>Pocillopora</i> coral-associated bacteria diversity, decrease holobiont oxygen consumption, and activate immune gene expression",
@@ -215,7 +231,7 @@
     "publisher": "Frontiers in Marine Science",
     "releaseDate": "2023",
     "url": "https://doi.org/10.3389/fmars.2023.1111749",
-    "authors": "Johnston MA, Studivan MS, Enochs IC, Correa AMS, Besemer N, Eckert RJ, Edwards K, Hannum R, Hu X, Nuttall M, O’Connell K, <b>Palacio-Castro AM</b>, et al"
+    "authors": "Johnston MA, Studivan MS, Enochs IC, Correa AMS, Besemer N, Eckert RJ, Edwards K, Hannum R, Hu X, Nuttall M, O’Connell K, <b>Palacio-Castro AM</b>, et al."
   },
   {
     "title": "Microbiome signatures in <i>Acropora cervicornis</i> are associated with genotypic resistance to elevated nutrients and heat stress",
@@ -243,7 +259,7 @@
     "publisher": "Global Change Biology",
     "releaseDate": "2020",
     "url": "https://doi.org/10.1111/gcb.15126",
-    "authors": "Romero-Torres M, Acosta A, <b>Palacio-Castro AM</b>, Treml EA, et al"
+    "authors": "Romero-Torres M, Acosta A, <b>Palacio-Castro AM</b>, Treml EA, et al."
   },
   {
     "title": "Source location and food availability determine the growth response of <i>Orbicella faveolata</i> to climate change stressors",
