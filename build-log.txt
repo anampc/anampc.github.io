@@ -1,0 +1,345 @@
+Configuration file: /Users/pachacuti/Documents/GitHub/anampc.github.io/_config.yml
+            Source: /Users/pachacuti/Documents/GitHub/anampc.github.io
+       Destination: /Users/pachacuti/Documents/GitHub/anampc.github.io/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+         AutoPages: Disabled/Not configured in site.config.
+        Pagination: Complete, processed 1 pagination page(s)
+       Imagemagick: Searching files in /Users/pachacuti/Documents/GitHub/anampc.github.io/assets/img/
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/ana_pic-480.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/ana_pic-800.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/ana_pic-1400.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/news/2015_Tropicos-480.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/news/2015_Tropicos-800.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/news/2015_Tropicos-1400.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/news/2017_06-480.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/news/2017_06-800.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/news/2017_06-1400.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/notebooks/Acer_nut/Acer_collected-480.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/notebooks/Acer_nut/Acer_collected-800.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/notebooks/Acer_nut/Acer_collected-1400.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/notebooks/Acer_nut/Acer_day_2-480.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/notebooks/Acer_nut/Acer_day_2-800.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/notebooks/Acer_nut/Acer_day_2-1400.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/notebooks/Panama_SCTLD/Collected_colonies_1-480.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/notebooks/Panama_SCTLD/Collected_colonies_1-800.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/notebooks/Panama_SCTLD/Collected_colonies_1-1400.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/notebooks/Panama_SCTLD/Collected_colonies_2-480.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/notebooks/Panama_SCTLD/Collected_colonies_2-800.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/notebooks/Panama_SCTLD/Collected_colonies_2-1400.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/notebooks/Panama_SCTLD/Plob_1-480.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/notebooks/Panama_SCTLD/Plob_1-800.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/notebooks/Panama_SCTLD/Plob_1-1400.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/notebooks/Panama_SCTLD/Plob_2-480.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/notebooks/Panama_SCTLD/Plob_2-800.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/notebooks/Panama_SCTLD/Plob_2-1400.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/notebooks/Panama_SCTLD/Plob_3-480.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/notebooks/Panama_SCTLD/Plob_3-800.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/notebooks/Panama_SCTLD/Plob_3-1400.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2015/2015_Gal_1-480.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2015/2015_Gal_1-800.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2015/2015_Gal_1-1400.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2015/2015_Gal_10-480.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2015/2015_Gal_10-800.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2015/2015_Gal_10-1400.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2015/2015_Gal_11-480.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2015/2015_Gal_11-800.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2015/2015_Gal_11-1400.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2015/2015_Gal_12-480.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2015/2015_Gal_12-800.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2015/2015_Gal_12-1400.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2015/2015_Gal_13-480.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2015/2015_Gal_13-800.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2015/2015_Gal_13-1400.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2015/2015_Gal_14-480.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2015/2015_Gal_14-800.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2015/2015_Gal_14-1400.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2015/2015_Gal_15-480.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2015/2015_Gal_15-800.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2015/2015_Gal_15-1400.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2015/2015_Gal_16-480.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2015/2015_Gal_16-800.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2015/2015_Gal_16-1400.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2015/2015_Gal_2-480.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2015/2015_Gal_2-800.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2015/2015_Gal_2-1400.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2015/2015_Gal_3-480.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2015/2015_Gal_3-800.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2015/2015_Gal_3-1400.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2015/2015_Gal_4-480.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2015/2015_Gal_4-800.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2015/2015_Gal_4-1400.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2015/2015_Gal_5-480.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2015/2015_Gal_5-800.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2015/2015_Gal_5-1400.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2015/2015_Gal_6-480.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2015/2015_Gal_6-800.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2015/2015_Gal_6-1400.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2015/2015_Gal_7-480.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2015/2015_Gal_7-800.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2015/2015_Gal_7-1400.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2015/2015_Gal_8-480.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2015/2015_Gal_8-800.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2015/2015_Gal_8-1400.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2016/02-09-16_LaConcha_20-480.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2016/02-09-16_LaConcha_20-800.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2016/02-09-16_LaConcha_20-1400.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2016/02-09-16_LaConcha_37-480.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2016/02-09-16_LaConcha_37-800.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2016/02-09-16_LaConcha_37-1400.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2016/02-09-16_LaConcha_67-480.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2016/02-09-16_LaConcha_67-800.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2016/02-09-16_LaConcha_67-1400.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2016/02-09-16_LaConcha_79-480.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2016/02-09-16_LaConcha_79-800.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2016/02-09-16_LaConcha_79-1400.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2016/Feb10-16_LaCalera_43-480.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2016/Feb10-16_LaCalera_43-800.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2016/Feb10-16_LaCalera_43-1400.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2016/Feb10-16_LaCalera_72-480.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2016/Feb10-16_LaCalera_72-800.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2016/Feb10-16_LaCalera_72-1400.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2016/Feb10-16_LaCalera_78-480.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2016/Feb10-16_LaCalera_78-800.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2016/Feb10-16_LaCalera_78-1400.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2016/Feb13-16_Tortuga_13-480.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2016/Feb13-16_Tortuga_13-800.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2016/Feb13-16_Tortuga_13-1400.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2016/Feb13-16_Tortuga_18-480.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2016/Feb13-16_Tortuga_18-800.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2016/Feb13-16_Tortuga_18-1400.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2016/Feb13-16_Tortuga_56-480.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2016/Feb13-16_Tortuga_56-800.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2016/Feb13-16_Tortuga_56-1400.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2016/Feb14-16_LaConcha_18-480.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2016/Feb14-16_LaConcha_18-800.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2016/Feb14-16_LaConcha_18-1400.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2016/Feb14-16_LaConcha_33-480.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2016/Feb14-16_LaConcha_33-800.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2016/Feb14-16_LaConcha_33-1400.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2016/Feb17-16_LobChica_30-480.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2016/Feb17-16_LobChica_30-800.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2016/Feb17-16_LobChica_30-1400.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2016/Feb17-16_LobChica_33-480.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2016/Feb17-16_LobChica_33-800.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2016/Feb17-16_LobChica_33-1400.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2016/Feb22-16_Champion_38-480.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2016/Feb22-16_Champion_38-800.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2016/Feb22-16_Champion_38-1400.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2016/Feb22-16_Champion_43-480.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2016/Feb22-16_Champion_43-800.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2016/Feb22-16_Champion_43-1400.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2016/Feb23-16_CoronaDiablo_11-480.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2016/Feb23-16_CoronaDiablo_11-800.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2016/Feb23-16_CoronaDiablo_11-1400.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2016/Feb23-16_CoronaDiablo_27-480.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2016/Feb23-16_CoronaDiablo_27-800.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2016/Feb23-16_CoronaDiablo_27-1400.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2016/Front-480.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2016/Front-800.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2016/Front-1400.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2016/IMG_3706-480.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2016/IMG_3706-800.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2016/IMG_3706-1400.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2016/IMG_4936-480.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2016/IMG_4936-800.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2016/IMG_4936-1400.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2016/IMG_4957-480.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2016/IMG_4957-800.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2016/IMG_4957-1400.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2016/IMG_4959-480.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2016/IMG_4959-800.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2016/IMG_4959-1400.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2016/Pajaros-480.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2016/Pajaros-800.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2016/Pajaros-1400.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2016/Tintoreras_18-480.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2016/Tintoreras_18-800.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2016/Tintoreras_18-1400.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2016/feb21-16LaConcha_1-480.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2016/feb21-16LaConcha_1-800.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2016/feb21-16LaConcha_1-1400.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2017/Fauna/1-480.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2017/Fauna/1-800.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2017/Fauna/1-1400.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2017/Fauna/2-480.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2017/Fauna/2-800.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2017/Fauna/2-1400.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2017/Fauna/3-480.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2017/Fauna/3-800.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2017/Fauna/3-1400.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2017/Fauna/4-480.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2017/Fauna/4-800.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2017/Fauna/4-1400.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2017/Fauna/5-480.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2017/Fauna/5-800.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2017/Fauna/5-1400.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2017/Fauna/6-480.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2017/Fauna/6-800.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2017/Fauna/6-1400.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2017/LS/1-480.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2017/LS/1-800.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2017/LS/1-1400.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2017/LS/2-480.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2017/LS/2-800.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2017/LS/2-1400.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2017/LS/3-480.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2017/LS/3-800.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2017/LS/3-1400.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2017/LS/4-480.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2017/LS/4-800.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2017/LS/4-1400.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2017/LS/5-480.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2017/LS/5-800.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2017/LS/5-1400.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2017/LS/6-480.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2017/LS/6-800.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2017/LS/6-1400.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2017/WC/1-480.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2017/WC/1-800.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2017/WC/1-1400.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2017/WC/2-480.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2017/WC/2-800.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2017/WC/2-1400.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2017/WC/3-480.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2017/WC/3-800.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2017/WC/3-1400.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2017/WC/4-480.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2017/WC/4-800.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2017/WC/4-1400.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2017/WC/5-480.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2017/WC/5-800.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2017/WC/5-1400.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2017/WC/6-480.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2017/WC/6-800.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Galapagos2017/WC/6-1400.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Header-480.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Header-800.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Header-1400.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/NCRMP-480.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/NCRMP-800.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/NCRMP-1400.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Panama2018/Chiriqui/1-480.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Panama2018/Chiriqui/1-800.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Panama2018/Chiriqui/1-1400.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Panama2018/Chiriqui/4-480.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Panama2018/Chiriqui/4-800.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Panama2018/Chiriqui/4-1400.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Panama2018/Chiriqui/5-480.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Panama2018/Chiriqui/5-800.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Panama2018/Chiriqui/5-1400.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Panama2018/Chiriqui/6-480.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Panama2018/Chiriqui/6-800.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Panama2018/Chiriqui/6-1400.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Panama2018/Chiriqui/7-480.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Panama2018/Chiriqui/7-800.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Panama2018/Chiriqui/7-1400.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Panama2018/Chiriqui/8-480.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Panama2018/Chiriqui/8-800.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Panama2018/Chiriqui/8-1400.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Panama2018/Chiriqui/9-480.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Panama2018/Chiriqui/9-800.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Panama2018/Chiriqui/9-1400.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Panama2018/Saboga/1-480.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Panama2018/Saboga/1-800.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Panama2018/Saboga/1-1400.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Panama2018/Saboga/2-480.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Panama2018/Saboga/2-800.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Panama2018/Saboga/2-1400.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Panama2018/Saboga/3-480.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Panama2018/Saboga/3-800.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Panama2018/Saboga/3-1400.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Panama2018/Saboga/4-480.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Panama2018/Saboga/4-800.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Panama2018/Saboga/4-1400.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Panama2018/Saboga/5-480.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Panama2018/Saboga/5-800.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Panama2018/Saboga/5-1400.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Panama2018/Saboga/6-480.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Panama2018/Saboga/6-800.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/projects/Panama2018/Saboga/6-1400.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/publication_preview/2017_RSMS-480.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/publication_preview/2017_RSMS-800.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/publication_preview/2017_RSMS-1400.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/publication_preview/2020_GCB-480.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/publication_preview/2020_GCB-800.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/publication_preview/2020_GCB-1400.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/publication_preview/2023_BC-480.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/publication_preview/2023_BC-800.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/publication_preview/2023_BC-1400.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/publication_preview/2023_GBC-480.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/publication_preview/2023_GBC-800.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/publication_preview/2023_GBC-1400.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/publication_preview/GCB-480.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/publication_preview/GCB-800.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/publication_preview/GCB-1400.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/publication_preview/HardwareX-480.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/publication_preview/HardwareX-800.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/publication_preview/HardwareX-1400.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/publication_preview/NSR-480.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/publication_preview/NSR-800.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/publication_preview/NSR-1400.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/publication_preview/PlosOne-480.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/publication_preview/PlosOne-800.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/publication_preview/PlosOne-1400.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/publication_preview/UM-480.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/publication_preview/UM-800.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/publication_preview/UM-1400.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/publication_preview/frontiers-480.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/publication_preview/frontiers-800.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/publication_preview/frontiers-1400.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/publication_preview/pnas.2023-480.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/publication_preview/pnas.2023-800.webp
+       Imagemagick: Adding static file /Users/pachacuti/Documents/GitHub/anampc.github.io/_site/assets/img/publication_preview/pnas.2023-1400.webp
+       Imagemagick: Generated 0 file(s)
+       Jekyll Feed: Generating feed for posts
+[31m  Conversion error: JekyllJupyterNotebook::Converter encountered an error while converting 'assets/jupyter/blog.ipynb':[0m
+[31m                    No such file or directory - jupyter[0m
+bundler: failed to load command: jekyll (/Users/pachacuti/.gem/ruby/3.1.3/bin/jekyll)
+/Users/pachacuti/.gem/ruby/3.1.3/gems/jekyll-jupyter-notebook-0.0.6/lib/jekyll-jupyter-notebook/converter.rb:58:in `spawn': No such file or directory - jupyter (Errno::ENOENT)
+	from /Users/pachacuti/.gem/ruby/3.1.3/gems/jekyll-jupyter-notebook-0.0.6/lib/jekyll-jupyter-notebook/converter.rb:58:in `block in convert_notebook'
+	from /Users/pachacuti/.gem/ruby/3.1.3/gems/jekyll-jupyter-notebook-0.0.6/lib/jekyll-jupyter-notebook/converter.rb:49:in `pipe'
+	from /Users/pachacuti/.gem/ruby/3.1.3/gems/jekyll-jupyter-notebook-0.0.6/lib/jekyll-jupyter-notebook/converter.rb:49:in `convert_notebook'
+	from /Users/pachacuti/.gem/ruby/3.1.3/gems/jekyll-jupyter-notebook-0.0.6/lib/jekyll-jupyter-notebook/converter.rb:28:in `convert'
+	from /Users/pachacuti/.gem/ruby/3.1.3/gems/jekyll-4.3.3/lib/jekyll/renderer.rb:105:in `block in convert'
+	from /Users/pachacuti/.gem/ruby/3.1.3/gems/jekyll-4.3.3/lib/jekyll/renderer.rb:104:in `each'
+	from /Users/pachacuti/.gem/ruby/3.1.3/gems/jekyll-4.3.3/lib/jekyll/renderer.rb:104:in `reduce'
+	from /Users/pachacuti/.gem/ruby/3.1.3/gems/jekyll-4.3.3/lib/jekyll/renderer.rb:104:in `convert'
+	from /Users/pachacuti/.gem/ruby/3.1.3/gems/jekyll-4.3.3/lib/jekyll/renderer.rb:84:in `render_document'
+	from /Users/pachacuti/.gem/ruby/3.1.3/gems/jekyll-4.3.3/lib/jekyll/renderer.rb:63:in `run'
+	from /Users/pachacuti/.gem/ruby/3.1.3/gems/jekyll-4.3.3/lib/jekyll/site.rb:572:in `render_regenerated'
+	from /Users/pachacuti/.gem/ruby/3.1.3/gems/jekyll-4.3.3/lib/jekyll/site.rb:564:in `block in render_pages'
+	from /Users/pachacuti/.gem/ruby/3.1.3/gems/jekyll-4.3.3/lib/jekyll/site.rb:563:in `each'
+	from /Users/pachacuti/.gem/ruby/3.1.3/gems/jekyll-4.3.3/lib/jekyll/site.rb:563:in `render_pages'
+	from /Users/pachacuti/.gem/ruby/3.1.3/gems/jekyll-4.3.3/lib/jekyll/site.rb:211:in `render'
+	from /Users/pachacuti/.gem/ruby/3.1.3/gems/jekyll-4.3.3/lib/jekyll/site.rb:80:in `process'
+	from /Users/pachacuti/.gem/ruby/3.1.3/gems/jekyll-4.3.3/lib/jekyll/command.rb:28:in `process_site'
+	from /Users/pachacuti/.gem/ruby/3.1.3/gems/jekyll-4.3.3/lib/jekyll/commands/build.rb:65:in `build'
+	from /Users/pachacuti/.gem/ruby/3.1.3/gems/jekyll-4.3.3/lib/jekyll/commands/build.rb:36:in `process'
+	from /Users/pachacuti/.gem/ruby/3.1.3/gems/jekyll-4.3.3/lib/jekyll/command.rb:91:in `block in process_with_graceful_fail'
+	from /Users/pachacuti/.gem/ruby/3.1.3/gems/jekyll-4.3.3/lib/jekyll/command.rb:91:in `each'
+	from /Users/pachacuti/.gem/ruby/3.1.3/gems/jekyll-4.3.3/lib/jekyll/command.rb:91:in `process_with_graceful_fail'
+	from /Users/pachacuti/.gem/ruby/3.1.3/gems/jekyll-4.3.3/lib/jekyll/commands/serve.rb:86:in `block (2 levels) in init_with_program'
+	from /Users/pachacuti/.gem/ruby/3.1.3/gems/mercenary-0.4.0/lib/mercenary/command.rb:221:in `block in execute'
+	from /Users/pachacuti/.gem/ruby/3.1.3/gems/mercenary-0.4.0/lib/mercenary/command.rb:221:in `each'
+	from /Users/pachacuti/.gem/ruby/3.1.3/gems/mercenary-0.4.0/lib/mercenary/command.rb:221:in `execute'
+	from /Users/pachacuti/.gem/ruby/3.1.3/gems/mercenary-0.4.0/lib/mercenary/program.rb:44:in `go'
+	from /Users/pachacuti/.gem/ruby/3.1.3/gems/mercenary-0.4.0/lib/mercenary.rb:21:in `program'
+	from /Users/pachacuti/.gem/ruby/3.1.3/gems/jekyll-4.3.3/exe/jekyll:15:in `<top (required)>'
+	from /Users/pachacuti/.gem/ruby/3.1.3/bin/jekyll:25:in `load'
+	from /Users/pachacuti/.gem/ruby/3.1.3/bin/jekyll:25:in `<top (required)>'
+	from /Users/pachacuti/.gem/ruby/3.1.3/gems/bundler-2.5.10/lib/bundler/cli/exec.rb:58:in `load'
+	from /Users/pachacuti/.gem/ruby/3.1.3/gems/bundler-2.5.10/lib/bundler/cli/exec.rb:58:in `kernel_load'
+	from /Users/pachacuti/.gem/ruby/3.1.3/gems/bundler-2.5.10/lib/bundler/cli/exec.rb:23:in `run'
+	from /Users/pachacuti/.gem/ruby/3.1.3/gems/bundler-2.5.10/lib/bundler/cli.rb:455:in `exec'
+	from /Users/pachacuti/.gem/ruby/3.1.3/gems/bundler-2.5.10/lib/bundler/vendor/thor/lib/thor/command.rb:28:in `run'
+	from /Users/pachacuti/.gem/ruby/3.1.3/gems/bundler-2.5.10/lib/bundler/vendor/thor/lib/thor/invocation.rb:127:in `invoke_command'
+	from /Users/pachacuti/.gem/ruby/3.1.3/gems/bundler-2.5.10/lib/bundler/vendor/thor/lib/thor.rb:527:in `dispatch'
+	from /Users/pachacuti/.gem/ruby/3.1.3/gems/bundler-2.5.10/lib/bundler/cli.rb:35:in `dispatch'
+	from /Users/pachacuti/.gem/ruby/3.1.3/gems/bundler-2.5.10/lib/bundler/vendor/thor/lib/thor/base.rb:584:in `start'
+	from /Users/pachacuti/.gem/ruby/3.1.3/gems/bundler-2.5.10/lib/bundler/cli.rb:29:in `start'
+	from /Users/pachacuti/.gem/ruby/3.1.3/gems/bundler-2.5.10/exe/bundle:28:in `block in <top (required)>'
+	from /Users/pachacuti/.gem/ruby/3.1.3/gems/bundler-2.5.10/lib/bundler/friendly_errors.rb:117:in `with_friendly_errors'
+	from /Users/pachacuti/.gem/ruby/3.1.3/gems/bundler-2.5.10/exe/bundle:20:in `<top (required)>'
+	from /Users/pachacuti/.gem/ruby/3.1.3/bin/bundle:25:in `load'
+	from /Users/pachacuti/.gem/ruby/3.1.3/bin/bundle:25:in `<main>'
