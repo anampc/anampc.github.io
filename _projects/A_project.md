@@ -4,7 +4,8 @@ title: Molecular Work
 description: Nutrient ratios and A. cervicornis growth
 img:
 importance: 1
-category: wetlab
+category: wet lab
+published: false # unfinished: still template text, set to true when ready
 ---
 
 Every project has a beautiful feature showcase page.

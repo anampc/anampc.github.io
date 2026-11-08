@@ -7,6 +7,7 @@ subtitle: Associate Scientist at University of Miami - CIMAS
 profile:
   align: right
   image: ana_pic.png
+  image_alt: Ana M. Palacio-Castro
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>NOAA/AOML</p>

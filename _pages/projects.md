@@ -5,7 +5,7 @@ permalink: /projects/
 description:
 nav: true
 nav_order: 2
-display_categories: [field work, wet lab]
+display_categories: [field work] # add "wet lab" back when that project is ready
 horizontal: false
 ---
 

@@ -213,3 +213,67 @@ ul.timeline li::before {
      color: var(--global-text-color);
 }
 */
+
+/*****************************
+ * Compact CV lists (resume.json sections)
+ *****************************/
+
+ul.cv-compact {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+li.cv-item {
+  display: flex;
+  gap: 0.75rem;
+  padding: 0.4rem 0;
+  border-bottom: 1px solid var(--global-divider-color);
+  font-size: 0.9rem;
+  line-height: 1.35;
+}
+
+li.cv-item:last-child {
+  border-bottom: none;
+}
+
+li.cv-item .cv-date {
+  flex: 0 0 6.5rem;
+  font-size: 0.9rem;
+  font-weight: 700;
+  color: var(--global-theme-color);
+  padding-top: 0.1rem;
+  white-space: nowrap;
+}
+
+li.cv-item .cv-body {
+  flex: 1;
+  min-width: 0;
+}
+
+li.cv-item .cv-title {
+  font-size: 1rem;
+  font-weight: 500;
+}
+
+li.cv-item .cv-meta {
+  font-size: 0.82rem;
+  color: var(--global-text-color-light);
+}
+
+li.cv-item ul.cv-bullets {
+  font-size: 0.82rem;
+  margin: 0.15rem 0 0;
+  padding-left: 1.1rem;
+}
+
+@media (max-width: 576px) {
+  li.cv-item {
+    flex-direction: column;
+    gap: 0;
+  }
+
+  li.cv-item .cv-date {
+    flex: none;
+  }
+}
